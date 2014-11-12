@@ -1,0 +1,89 @@
+h1 {
+  font-size: 2rem;
+  margin: 20px 0 20px 0;
+}
+
+
+table {
+  border: none;
+  margin: 0;
+  padding: 0;
+  border-spacing: 0;
+  width: 100%;
+}
+
+td {
+  text-align: right;
+  padding: 2px 0!important;
+}
+
+tr {
+  margin: 0;
+  background-color: white;
+}
+
+.field {
+  text-align: left;
+  padding-left: 0;
+}
+
+.table-break {
+  padding-top: 15px!important;
+}
+
+
+body #back-link {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  margin: 10px;
+}
+
+.boundary {
+  fill: none;
+  stroke: #fff;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.feature--state {
+  fill: #bbb;
+}
+
+.feature :hover {
+  fill: orange;
+}
+path.states {
+stroke-width: 1;
+stroke: black;
+opacity: .5;
+fill: red;
+}
+
+circle.cities {
+stroke-width: 1;
+stroke: black;
+fill: white;
+}
+
+circle.centroid {
+fill: red;
+pointer-events: none;
+}
+
+rect.bbox {
+fill: none;
+stroke-dasharray: 5 5;
+stroke: black;
+stroke-width: 2;
+pointer-events: none;
+}
+
+path.graticule {
+fill: none;
+stroke-width: 1;
+stroke: black;
+}
+
+path.graticule.outline {
+stroke: black;
+}
