@@ -56,7 +56,7 @@ This will prepare the data. Next we'll geocode the birth locations with lat/long
 
 ```{r}
   #Geocode place names (first remove any non-locations)
-judge_birth <- judge_birth %>% filter(place != ", ")
+judge_birth <- judge_birth %>% filter(place != " ,  ")
 judge_place <- geocode(judge_birth$place)
 judge_birth <- cbind(judge_birth, judge_place)
 
