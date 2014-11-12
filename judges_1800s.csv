@@ -1,0 +1,678 @@
+"","Judge.Identification.Number","Judge.Last.Name","Judge.First.Name","Judge.Middle.Name","Birth.year","Place.of.Birth..City.","Place.of.Birth..State.","Gender","Race.or.Ethnicity","Name.of.School","place","name","decade","lon","lat"
+"1",1,"Abruzzo","Matthew","T.",1889,"Brooklyn","NY","M","White","Brooklyn Law School","Brooklyn, NY","Abruzzo, Matthew",1880,-73.9441579,40.6781784
+"2",7,"Adair","J[ackson]","Leroy",1887,"Clayton","IL","M","White","University of Michigan Law School","Clayton, IL","Adair, J[ackson]",1880,-90.9606897,40.0314366
+"3",3295,"Adamson","William","Charles",1854,"Bowdon","GA","M","White","Bowdon College, Georgia","Bowdon, GA","Adamson, William",1850,-85.2532818,33.5378885
+"4",13,"Adkins","Jesse","Corcoran",1879,"Knoxville","TN","M","White","Georgetown College Law School (now Georgetown University Law Center)","Knoxville, TN","Adkins, Jesse",1870,-83.9207392,35.9606384
+"5",14,"Adler","Simon","Louis",1867,"Seneca Falls","NY","M","White","Cornell University","Seneca Falls, NY","Adler, Simon",1860,-76.7966215,42.9106219
+"6",17,"Akerman","Alexander"," ",1869,"Elberton","GA","M","White","Read law","Elberton, GA","Akerman, Alexander",1860,-82.8670839,34.1112226
+"7",28,"Allen","Florence","Ellinwood",1884,"Salt Lake City","UT","F","White","Western Reserve University (now Case Western Reserve University)","Salt Lake City, UT","Allen, Florence",1880,-111.8910474,40.7607793
+"8",32,"Allred","James","V.",1899,"Bowie","TX","M","White","Cumberland School of Law","Bowie, TX","Allred, James",1890,-97.8486457,33.5589953
+"9",2705,"Almond","James","Lindsay",1898,"Charlottesville","VA","M","White","University of Virginia School of Law","Charlottesville, VA","Almond, James",1890,-78.4766781,38.0293059
+"10",33,"Alschuler","Samuel"," ",1859,"Chicago","IL","M","White","Read law","Chicago, IL","Alschuler, Samuel",1850,-87.6297982,41.8781136
+"11",38,"Amidon","Charles","Fremont",1856,"Clymer","NY","M","White","Hamilton College","Clymer, NY","Amidon, Charles",1850,-79.6299617,42.0208501
+"12",41,"Anderson","Albert","Barnes",1857,"Zionsville","IN","M","White","Wabash College","Zionsville, IN","Anderson, Albert",1850,-86.261937,39.9508733
+"13",44,"Anderson","George","Weston",1861,"Acworth","NH","M","White","Williams College","Acworth, NH","Anderson, George",1860,-72.2920317,43.2178539
+"14",45,"Anderson","Harry","Bennett",1879,"Van Buren County","MI","M","White","University of Chicago","Van Buren County, MI","Anderson, Harry",1870,-86.0121573,42.2459665
+"15",2691,"Andrews","Maurice","Neil",1894,"LaFayette","GA","M","White","University of Georgia School of Law","LaFayette, GA","Andrews, Maurice",1890,-85.2818998,34.7048022
+"16",52,"Angell","Alexis","Caswell",1857,"Providence","RI","M","White","University of Michigan","Providence, RI","Angell, Alexis",1850,-71.4128343,41.8239891
+"17",54,"Arant","Herschel","Whitfield",1887,"Church Hill","AL","M","White","University of Alabama","Church Hill, AL","Arant, Herschel",1880,-73.2954187,41.4173361
+"18",62,"Arnold","Thurman","Wesley",1891,"Laramie","WY","M","White","Princeton University","Laramie, WY","Arnold, Thurman",1890,-105.5911007,41.3113669
+"19",70,"Atwell","William","Hawley",1869,"Sparta","WI","M","White","Southwestern University","Sparta, WI","Atwell, William",1860,-90.8129118,43.9441328
+"20",73,"Avis","John","Boyd",1875,"Deerfield","NJ","M","White","Read law","Deerfield, NJ","Avis, John",1870,-75.131987,39.459043
+"21",76,"Bailey","Thomas","Jennings",1867,"Nashville","TN","M","White","Southwestern University","Nashville, TN","Bailey, Thomas",1860,-86.783333,36.166667
+"22",78,"Baker","Francis","Elisha",1860,"Goshen","IN","M","White","University of Michigan","Goshen, IN","Baker, Francis",1860,-85.8344383,41.5822716
+"23",81,"Baker","William","Eli",1873,"Beverly","WV","M","White","West Virginia Conference Seminary (now West Virginia Wesleyan College)","Beverly, WV","Baker, William",1870,-79.8753457,38.8406633
+"24",85,"Baldwin","James","Harris",1876,"St. Joseph","MO","M","White","University of Virginia","St. Joseph, MO","Baldwin, James",1870,-94.846681,39.7674578
+"25",89,"Baltzell","Robert","C.",1879,"Lawrence County","IL","M","White","Northern Illinois State Normal School (now Northern Illinois University)","Lawrence County, IL","Baltzell, Robert",1870,-87.7763333,38.7157534
+"26",3329,"Barber","Orion","Metcalf",1857,"Jamaica","VT","M","White","Albany Law School","Jamaica, VT","Barber, Orion",1850,-72.7784296,43.1003556
+"27",93,"Bard","Guy","Kurtz",1895,"Lincoln","PA","M","White","Franklin and Marshall College","Lincoln, PA","Bard, Guy",1890,-79.851389,40.290833
+"28",95,"Barker","William","Julius",1886,"Marietta","GA","M","White","University of Florida College of Law","Marietta, GA","Barker, William",1880,-84.5499327,33.952602
+"29",97,"Barksdale","Alfred","Dickinson",1892,"Houston (now Halifax)","VA","M","White","Virginia Military Institute","Houston (now Halifax), VA","Barksdale, Alfred",1890,-78.9283441,36.7659709
+"30",103,"Barnes","John","Peter",1881,"Beaver County","PA","M","White","Geneva College","Beaver County, PA","Barnes, John",1880,-80.365865,40.6367812
+"31",110,"Bartels","John","Ries",1897,"Baltimore","MD","M","White","Johns Hopkins University","Baltimore, MD","Bartels, John",1890,-76.6121893,39.2903848
+"32",115,"Bastian","Walter","Maximillian",1891,"Washington","DC","M","White","Georgetown College Law School (now Georgetown University Law Center)","Washington, DC","Bastian, Walter",1890,-77.0368707,38.9071923
+"33",121,"Batts","Robert","Lynn",1864,"Bastrop","TX","M","White","University of Texas School of Law","Bastrop, TX","Batts, Robert",1860,-97.3152701,30.1104947
+"34",128,"Bean","Robert","Sharp",1854,"Yamhill County","OR","M","White","Christian College (now Western Oregon State University)","Yamhill County, OR","Bean, Robert",1850,-123.2395303,45.1771983
+"35",129,"Beattie","Charlton","Reid",1869,"Assumption Parish","LA","M","White","University of Virginia","Assumption Parish, LA","Beattie, Charlton",1860,-91.09694,29.9232544
+"36",133,"Beaumont","Campbell","Eben",1883,"Mayfield","KY","M","White","Cumberland School of Law","Mayfield, KY","Beaumont, Campbell",1880,-88.6367154,36.7417235
+"37",135,"Beck","Axel","John",1894," ","Sweden","M","White","Morningside College"," , Sweden","Beck, Axel",1890,18.643501,60.128161
+"38",147,"Bell","Robert","Cook",1880,"Harrisonville","MO","M","White","University of Missouri School of Law","Harrisonville, MO","Bell, Robert",1880,-94.3488372,38.6533445
+"39",163,"Bethea","Solomon","Hicks",1852,"Lee County","IL","M","White","Read law","Lee County, IL","Bethea, Solomon",1850,-89.3226954,41.6789842
+"40",166,"Biddle","Francis"," ",1886,"Paris","France","M","White","Harvard University","Paris, France","Biddle, Francis",1880,2.3522219,48.856614
+"41",170,"Biggs","John"," ",1895,"Wilmington","DE","M","White","Princeton University","Wilmington, DE","Biggs, John",1890,-75.5397878,39.7390721
+"42",175,"Bingham","George","Hutchins",1864,"Littleton","NH","M","White","Dartmouth College","Littleton, NH","Bingham, George",1860,-71.7701237,44.3061628
+"43",181,"Black","Hugo","Lafayette",1886,"Clay County","AL","M","White","University of Alabama School of Law","Clay County, AL","Black, Hugo",1880,-85.8486236,33.279527
+"44",182,"Black","Lloyd","Llewellyn",1889,"Leavenworth","KS","M","White","University of Washington","Leavenworth, KS","Black, Lloyd",1880,-94.9224637,39.3111112
+"45",3330,"Bland","Oscar","Edward",1877,"near Bloomfield","IN","M","White","Northern Indiana Normal School (now Valparaiso University)","near Bloomfield, IN","Bland, Oscar",1870,-86.9375068,39.0269903
+"46",194,"Bledsoe","Benjamin","Franklin",1874,"San Bernardino","CA","M","White","Stanford University","San Bernardino, CA","Bledsoe, Benjamin",1870,-117.2897652,34.1083449
+"47",200,"Bodine","Joseph","Lamb",1883,"Trenton","NJ","M","White","Princeton University","Trenton, NJ","Bodine, Joseph",1880,-74.7429384,40.2170534
+"48",207,"Bondy","William"," ",1870,"New York","NY","M","White","Columbia College","New York, NY","Bondy, William",1870,-74.0059413,40.7127837
+"49",208,"Bone","Homer","Truett",1883,"Franklin","IN","M","White","Tacoma Law School","Franklin, IN","Bone, Homer",1880,-86.0549863,39.4806055
+"50",3274,"Booth","Fenton","Whitlock",1869,"Marshall","IL","M","White","DePauw University","Marshall, IL","Booth, Fenton",1860,-87.6936384,39.3914252
+"51",214,"Borah","Wayne","G.",1891,"Baldwin","LA","M","White","Louisiana State University Law School","Baldwin, LA","Borah, Wayne",1890,-91.5442793,29.8379836
+"52",215,"Boreman","Herbert","Stephenson",1897,"Middlebourne","WV","M","White","West Virginia University College of Law","Middlebourne, WV","Boreman, Herbert",1890,-80.9037181,39.4922999
+"53",220,"Bourquin","George","M.",1863,"Warren County","PA","M","White","Read law","Warren County, PA","Bourquin, George",1860,-79.2902133,41.8143331
+"54",222,"Bowen","John","Clyde",1888,"Newbern","TN","M","White","University of Tennessee","Newbern, TN","Bowen, John",1880,-89.2617368,36.1128479
+"55",233,"Boynton","Charles","Albert",1867,"Quebec","Canada","M","White","Glasgow Normal School (now University of Western Kentucky)","Quebec, Canada","Boynton, Charles",1860,-73.5491361,52.9399159
+"56",241,"Brandeis","Louis","Dembitz",1856,"Louisville","KY","M","White","Harvard Law School","Louisville, KY","Brandeis, Louis",1850,-85.7584557,38.2526647
+"57",244,"Bratton","Sam","Gilbert",1888,"Kosse","TX","M","White","Read law","Kosse, TX","Bratton, Sam",1880,-96.6319231,31.3076774
+"58",248,"Brennan","Stephen","W.",1893,"Clinton","NY","M","White","Albany Law School","Clinton, NY","Brennan, Stephen",1890,-75.3785034,43.0484029
+"59",252,"Brewster","Elisha","Hume",1871,"Worthington","MA","M","White","Boston University School of Law","Worthington, MA","Brewster, Elisha",1870,-72.9356536,42.3973092
+"60",257,"Briggle","Charles","Guy",1883,"Rushville","IL","M","White","University of Illinois College of Law","Rushville, IL","Briggle, Charles",1880,-90.5631829,40.1211577
+"61",258,"Bright","John"," ",1884,"Middletown","NY","M","White","Read law","Middletown, NY","Bright, John",1880,-74.4229341,41.4459271
+"62",266,"Broaddus","Bower","Slack",1888,"Chillicothe","MO","M","White","Kansas City School of Law (now University of Missouri-Kansas City School of Law)","Chillicothe, MO","Broaddus, Bower",1880,-93.5524358,39.7952946
+"63",281,"Brown","Arthur","Lewis",1854,"Providence","RI","M","White","Brown University","Providence, RI","Brown, Arthur",1850,-71.4128343,41.8239891
+"64",3303,"Brown","George","Stewart",1871,"Baltimore","MD","M","White","Johns Hopkins University","Baltimore, MD","Brown, George",1870,-76.6121893,39.2903848
+"65",288,"Brown","Robert","Lewis",1892,"Phillipsburg","MT","M","White","University of Montana School of Law","Phillipsburg, MT","Brown, Robert",1890,-113.2944165,46.332506
+"66",293,"Bruchhausen","Walter"," ",1892,"Brooklyn","NY","M","White","New York University School of Law","Brooklyn, NY","Bruchhausen, Walter",1890,-73.9441579,40.6781784
+"67",295,"Bryan","Albert","Vickers",1899,"Alexandria","VA","M","White","University of Virginia School of Law","Alexandria, VA","Bryan, Albert",1890,-77.0469214,38.8048355
+"68",299,"Bryan","Nathan","Philemon",1872,"Fort Mason","FL","M","White","Emory College","Fort Mason, FL","Bryan, Nathan",1870,-81.699205,28.872808
+"69",302,"Bryant","Frederick","Howard",1877,"Lincoln","VT","M","White","Middlebury College","Lincoln, VT","Bryant, Frederick",1870,-72.9970612,44.1058928
+"70",303,"Bryant","Randolph"," ",1893,"Sherman","TX","M","White","University of Texas","Sherman, TX","Bryant, Randolph",1890,-96.6088805,33.6356618
+"71",313,"Buffington","Joseph"," ",1855,"Kittanning","PA","M","White","Trinity College, Hartford, Connecticut","Kittanning, PA","Buffington, Joseph",1850,-79.5219893,40.816453
+"72",321,"Burke","Harold","P.",1895,"Rochester","NY","M","White","Notre Dame Law School","Rochester, NY","Burke, Harold",1890,-77.6109219,43.16103
+"73",325,"Burns","Louis","Henry",1878,"New Orleans","LA","M","White","Tulane University Law School","New Orleans, LA","Burns, Louis",1870,-90.0715323,29.9510658
+"74",326,"Burns","Owen","McIntosh",1892,"Danville","IL","M","White","University of Illinois","Danville, IL","Burns, Owen",1890,-87.6300207,40.124481
+"75",327,"Burns","Waller","Thomas",1858,"La Grange","TX","M","White",,"La Grange, TX","Burns, Waller",1850,-96.876647,29.9055033
+"76",330,"Burrows","Warren","Booth",1877,"Poquonock Bridge","CT","M","White","University of Michigan Law School","Poquonock Bridge, CT","Burrows, Warren",1870,-72.0247969,41.3450986
+"77",331,"Burton","Harold","Hitz",1888,"Jamaica Plain","MA","M","White","Bowdoin College","Jamaica Plain, MA","Burton, Harold",1880,-71.1151431,42.3097365
+"78",335,"Butler","Pierce"," ",1866,"Dakota County","MN","M","White","Carleton College","Dakota County, MN","Butler, Pierce",1860,-93.1779659,44.731554
+"79",338,"Byers","Mortimer","W.",1877,"Brooklyn","NY","M","White","Columbia Law School","Brooklyn, NY","Byers, Mortimer",1870,-73.9441579,40.6781784
+"80",340,"Byrne","William","Matthew",1896,"Bakersfield","CA","M","White","Loyola Law School, Los Angeles, California","Bakersfield, CA","Byrne, William",1890,-119.0187125,35.3732921
+"81",342,"Byrnes","James","Francis",1882,"Charleston","SC","M","White","Read law","Charleston, SC","Byrnes, James",1880,-79.9310512,32.7764749
+"82",347,"Caffey","Francis","Gordon",1868,"Gordonsville","AL","M","White","Howard College (now Samford University)","Gordonsville, AL","Caffey, Francis",1860,-86.714338,32.152335
+"83",351,"Caillouet","Adrian","Joseph",1883,"Thibodaux","LA","M","White","St. Mary`s College, Kentucky","Thibodaux, LA","Caillouet, Adrian",1880,-90.822871,29.7957633
+"84",356,"Call","Rhydon","Mays",1858,"Fernandina","FL","M","White","Washington and Lee University School of Law","Fernandina, FL","Call, Rhydon",1850,-81.4638448,30.6676712
+"85",359,"Cameron","Benjamin","Franklin",1890,"Meridian","MS","M","White","University of the South","Meridian, MS","Cameron, Benjamin",1890,-88.703656,32.3643098
+"86",3236,"Campbell","Edward","Kernan",1858,"Abingdon","VA","M","White","Emory and Henry College","Abingdon, VA","Campbell, Edward",1850,-81.9773482,36.7098335
+"87",364,"Campbell","Marcus","Beach",1866,"Newark","NJ","M","White","New York University School of Law","Newark, NJ","Campbell, Marcus",1860,-74.1723667,40.735657
+"88",365,"Campbell","Ralph","E.",1867,"Butler County","PA","M","White","Northern Indiana Normal School (now Valparaiso University)","Butler County, PA","Campbell, Ralph",1860,-79.8296743,40.9115243
+"89",372,"Cant","William","Alexander",1863,"Westfield, Marquette County","WI","M","White","University of Michigan Law School","Westfield, Marquette County, WI","Cant, William",1860,-89.4934393,43.8835948
+"90",374,"Cardozo","Benjamin","Nathan",1870,"New York","NY","M","White","Columbia College","New York, NY","Cardozo, Benjamin",1870,-74.0059413,40.7127837
+"91",375,"Carland","John","Emmett",1853,"Oswego County","NY","M","White","University of Michigan","Oswego County, NY","Carland, John",1850,-76.1783739,43.482533
+"92",379,"Carpenter","George","Albert",1867,"Chicago","IL","M","White","Harvard University","Chicago, IL","Carpenter, George",1860,-87.6297982,41.8781136
+"93",395,"Cashin","John","M.",1892,"Kingston","NY","M","White","Cornell University Department of Law","Kingston, NY","Cashin, John",1890,-73.9973608,41.9270367
+"94",403,"Cavanah","Charles","Cheatham",1871,"Greensboro","NC","M","White",,"Greensboro, NC","Cavanah, Charles",1870,-79.7919754,36.0726354
+"95",405,"Cecil","Lester","LeFevre",1893,"Miami County","OH","M","White","University of Michigan Law School","Miami County, OH","Cecil, Lester",1890,-84.1857115,40.081473
+"96",410,"Chandler","Stephen","Sanders",1899,"Blount County","TN","M","White","University of Kansas School of Law","Blount County, TN","Chandler, Stephen",1890,-83.8473015,35.6710541
+"97",413,"Chase","Harrie","Brigham",1889,"Whitingham","VT","M","White","Dartmouth College","Whitingham, VT","Chase, Harrie",1880,-72.885098,42.7892488
+"98",417,"Chatfield","Thomas"," ",1871,"Oswego","NY","M","White","Yale College","Oswego, NY","Chatfield, Thomas",1870,-76.5104973,43.4553461
+"99",2714,"Cheney","John","Moses",1859,"Milwaukee","WI","M","White","Boston University School of Law","Milwaukee, WI","Cheney, John",1850,-87.9064736,43.0389025
+"100",419,"Chesnut","William","Calvin",1873,"Baltimore","MD","M","White","Johns Hopkins University","Baltimore, MD","Chesnut, William",1870,-76.6121893,39.2903848
+"101",423,"Choate","Emett","Clay",1891,"Columbus","OH","M","White","Indiana University School of Law -- Bloomington (now Maurer School of Law)","Columbus, OH","Choate, Emett",1890,-82.9987942,39.9611755
+"102",427,"Christenberry","Herbert","William",1897,"New Orleans","LA","M","White","Loyola University New Orleans School of Law","New Orleans, LA","Christenberry, Herbert",1890,-90.0715323,29.9510658
+"103",2780,"Clabaugh","Harry","M.",1856,"Cumberland","MD","M","White","University of Maryland School of Law","Cumberland, MD","Clabaugh, Harry",1850,-78.7625185,39.6528654
+"104",434,"Clancy","John","William",1899,"New York","NY","M","White","Fordham College","New York, NY","Clancy, John",1890,-74.0059413,40.7127837
+"105",436,"Clark","Bennett","Champ",1890,"Bowling Green","MO","M","White","University of Missouri","Bowling Green, MO","Clark, Bennett",1890,-91.1951437,39.3419891
+"106",439,"Clark","Charles","Edward",1889,"Woodbridge","CT","M","White","Yale College","Woodbridge, CT","Clark, Charles",1880,-73.0084385,41.352597
+"107",440,"Clark","Chase","Addison",1883,"Hadley","IN","M","White","University of Michigan","Hadley, IN","Clark, Chase",1880,-86.604263,39.728554
+"108",444,"Clark","Tom","C.",1899,"Dallas","TX","M","White","University of Texas","Dallas, TX","Clark, Tom",1890,-96.8004511,32.7801399
+"109",445,"Clark","William"," ",1891,"Newark","NJ","M","White","Harvard University","Newark, NJ","Clark, William",1890,-74.1723667,40.735657
+"110",446,"Clarke","John","Hessin",1857,"New Lisbon","OH","M","White","Western Reserve College (now Case Western Reserve University)","New Lisbon, OH","Clarke, John",1850,-80.846445,40.7845526
+"111",449,"Clary","Thomas","James",1899,"Seneca Falls","NY","M","White","Cornell University","Seneca Falls, NY","Clary, Thomas",1890,-76.7966215,42.9106219
+"112",452,"Clayton","Henry","De Lamar",1857,"Barbour County","AL","M","White","University of Alabama","Barbour County, AL","Clayton, Henry",1850,-85.354965,31.8172896
+"113",458,"Cliffe","Adam","C.",1869,"Sycamore","IL","M","White","Northwestern University School of Law","Sycamore, IL","Cliffe, Adam",1860,-88.6867538,41.9889173
+"114",459,"Clifford","John","David",1887,"Lewiston","ME","M","White","Bowdoin College","Lewiston, ME","Clifford, John",1880,-70.2147764,44.100351
+"115",3298,"Cline","Genevieve","Rose",1877,"Warren","OH","F","White","Baldwin-Wallace College","Warren, OH","Cline, Genevieve",1870,-80.8184166,41.2375569
+"116",463,"Cochran","Andrew","McConnell January",1854,"Maysville","KY","M","White","Centre College","Maysville, KY","Cochran, Andrew",1850,-83.744365,38.6411854
+"117",464,"Cochran","Ernest","Ford",1865,"Anderson","SC","M","White","University of Virginia School of Law","Anderson, SC","Cochran, Ernest",1860,-82.6501332,34.5034394
+"118",3299,"Cole","William","Purrington",1889,"Towson","MD","M","White","Maryland Agricultural College (now University of Maryland)","Towson, MD","Cole, William",1880,-76.6019125,39.4014955
+"119",474,"Coleman","Frank","Joseph",1886,"New York","NY","M","White","City College of New York","New York, NY","Coleman, Frank",1880,-74.0059413,40.7127837
+"120",476,"Coleman","William","Caldwell",1884,"Louisville","KY","M","White","Harvard University","Louisville, KY","Coleman, William",1880,-85.7584557,38.2526647
+"121",477,"Collet","John","Caskie",1898,"Keytesville","MO","M","White","Read law","Keytesville, MO","Collet, John",1890,-92.9382485,39.4344706
+"122",488,"Conger","Abraham","Benjamin",1887,"Tift County","GA","M","White","Mercer University","Tift County, GA","Conger, Abraham",1880,-83.5496566,31.4205597
+"123",489,"Conger","Edward","A.",1882,"Poughkeepsie","NY","M","White","New York University School of Law","Poughkeepsie, NY","Conger, Edward",1880,-73.9209701,41.7003713
+"124",494,"Connell","James","C.",1897,"Cleveland","OH","M","White","John Marshall School of Law (now Cleveland-Marshall College of Law)","Cleveland, OH","Connell, James",1890,-81.6943605,41.49932
+"125",497,"Connor","Aloysius","Joseph",1895,"Manchester","NH","M","White","Catholic University of America, Columbus School of Law","Manchester, NH","Connor, Aloysius",1890,-71.4547891,42.9956397
+"126",495,"Connor","Henry","Groves",1852,"Wilmington","NC","M","White","Read law","Wilmington, NC","Connor, Henry",1850,-77.9447102,34.2257255
+"127",506,"Cooper","Frank"," ",1869,"Glenville","NY","M","White","Union College","Glenville, NY","Cooper, Frank",1860,-74.0520717,42.9292419
+"128",512,"Cosgrave","George"," ",1870,"Calaveras County","CA","M","White","Read law","Calaveras County, CA","Cosgrave, George",1870,-120.6805037,38.1960477
+"129",515,"Cotteral","John","Hazelton",1864,"Middletown","IN","M","White","University of Michigan","Middletown, IN","Cotteral, John",1860,-85.537197,40.0572668
+"130",518,"Covington","James","Harry",1870,"Talbot County","MD","M","White","University of Pennsylvania Law School","Talbot County, MD","Covington, James",1870,-76.1319953,38.7803973
+"131",521,"Cox","Elijah","Allen",1887,"Baldwin","MS","M","White","Vanderbilt University","Baldwin, MS","Cox, Elijah",1880,-88.6353313,34.509544
+"132",523,"Cox","Joseph","Winston",1875,"Bridle Creek","VA","M","White","Columbian University School of Law (now George Washington University Law School)","Bridle Creek, VA","Cox, Joseph",1870,-81.2614504,36.6470165
+"133",528,"Coxe","Alfred","Conkling",1880,"Utica","NY","M","White","Yale University","Utica, NY","Coxe, Alfred",1880,-75.232664,43.100903
+"134",550,"Cushman","Edward","E.",1865,"Columbus Junction, Louisiana County","IA","M","White","Read law, Iowa","Columbus Junction, Louisiana County, IA","Cushman, Edward",1860,-93.097702,41.8780025
+"135",3318,"Dallinger","Fredrick","William",1871,"Cambridge","MA","M","White","Harvard College","Cambridge, MA","Dallinger, Fredrick",1870,-71.1097335,42.3736158
+"136",557,"Danaher","John","Anthony",1899,"Meriden","CT","M","White","Yale University","Meriden, CT","Danaher, John",1890,-72.8070435,41.5381535
+"137",561,"Darr","Leslie","Rogers",1886,"Jasper","TN","M","White","Cumberland School of Law","Jasper, TN","Darr, Leslie",1880,-85.6260789,35.0742448
+"138",565,"Davidson","Thomas","Whitfield",1876,"Harrison County","TX","M","White","Read law","Harrison County, TX","Davidson, Thomas",1870,-94.315422,32.5539228
+"139",566,"Davies","Elmer","David",1899,"Magnolia","AR","M","White","Vanderbilt University Law School","Magnolia, AR","Davies, Elmer",1890,-93.239334,33.2670725
+"140",572,"Davis","Charles","B.",1877,"Hannibal","MO","M","White","University of Missouri","Hannibal, MO","Davis, Charles",1870,-91.3584816,39.7083789
+"141",574,"Davis","David","Jackson",1878,"Weedowee","AL","M","White","Yale Law School","Weedowee, AL","Davis, David",1870,-85.484675,33.3090047
+"142",578,"Davis","John","Warren",1867,"Elizabeth City","NC","M","White","Bucknell University","Elizabeth City, NC","Davis, John",1860,-76.2510461,36.2946008
+"143",3265,"Davis","John"," ",1851,"Newton","MA","M","White","Heidelberg University, Germany","Newton, MA","Davis, John",1850,-71.2092214,42.3370413
+"144",580,"Davis","Thomas","Hoyt",1892,"Braselton","GA","M","White","Mercer University","Braselton, GA","Davis, Thomas",1890,-83.7626729,34.1092735
+"145",582,"Dawkins","Benjamin","Cornwell",1881,"Ouachita City","LA","M","White","Tulane University Law School","Ouachita City, LA","Dawkins, Benjamin",1880,-92.080802,32.7256259
+"146",584,"Dawson","Archie","Owen",1898,"Pomfret","CT","M","White","Columbia University","Pomfret, CT","Dawson, Archie",1890,-71.9625736,41.8975977
+"147",585,"Dawson","Charles","I.",1881,"Logan County","KY","M","White","University of Kentucky","Logan County, KY","Dawson, Charles",1880,-86.8621827,36.869834
+"148",587,"Day","William","Louis",1876,"Canton","OH","M","White","Williston Seminary (now Williston Northampton School)","Canton, OH","Day, William",1870,-81.378447,40.7989473
+"149",589,"Dayton","Alston","Gordon",1857,"Philippi","VA (now WV)","M","White","West Virginia University","Philippi, VA (now WV)","Dayton, Alston",1850,-78.6568942,37.4315734
+"150",3319,"De Vries","Marion"," ",1865,"near Woodbridge","CA","M","White","San Joaquin Valley College","near Woodbridge, CA","De Vries, Marion",1860,-121.300859,38.1539723
+"151",594,"Deaver","Bascom","Sine",1882,"Union County","GA","M","White","Mercer University","Union County, GA","Deaver, Bascom",1880,-83.9744262,34.8457601
+"152",599,"Delehant","John","Wayne",1890,"Goodland","KS","M","White","Creighton University","Goodland, KS","Delehant, John",1890,-101.7101722,39.350833
+"153",602,"Denison","Arthur","Carter",1861,"Grand Rapids","MI","M","White","University of Michigan","Grand Rapids, MI","Denison, Arthur",1860,-85.6680863,42.9633599
+"154",603,"Denman","William"," ",1872,"San Francisco","CA","M","White","University of California, Berkeley","San Francisco, CA","Denman, William",1870,-122.4194155,37.7749295
+"155",606,"DeVane","Dozier","Adolphus",1883,"near Lakeland","FL","M","White","Washington and Lee University School of Law","near Lakeland, FL","DeVane, Dozier",1880,-81.9498042,28.0394654
+"156",609,"Dewey","Charles","Almon",1877,"Washington","IA","M","White","University of Iowa College of Law","Washington, IA","Dewey, Charles",1870,-91.6916417,41.3014077
+"157",616,"Dickinson","Oliver","Booth",1857,"Dayton","OH","M","White","Bucknell University","Dayton, OH","Dickinson, Oliver",1850,-84.1916069,39.7589478
+"158",619,"Dietrich","Frank","Sigel",1863,"Franklin County","KS","M","White","Brown University","Franklin County, KS","Dietrich, Frank",1860,-95.3102505,38.6165913
+"159",623,"Dimock","Edward","Jordan",1890,"Elizabeth","NJ","M","White","Yale College","Elizabeth, NJ","Dimock, Edward",1890,-74.2107006,40.6639916
+"160",626,"Dobie","Armistead","Mason",1881,"Norfolk","VA","M","White","University of Virginia","Norfolk, VA","Dobie, Armistead",1880,-76.2858726,36.8507689
+"161",630,"Donahue","Maurice","H.",1864,"Monroe","OH","M","White","Read law","Monroe, OH","Donahue, Maurice",1860,-84.3621634,39.440336
+"162",3296,"Donlon","Mary","Honor",1893,"Utica","NY","F","White","Cornell University Department of Law","Utica, NY","Donlon, Mary",1890,-75.232664,43.100903
+"163",632,"Donohoe","James","A.",1877,"O`Neill","NE","M","White","Fremont Normal College (now Midland University)","O`Neill, NE","Donohoe, James",1870,-98.6478882,42.4576723
+"164",633,"Donovan","Dennis","Francis",1889,"Champion","MI","M","White","University of Michigan Law School","Champion, MI","Donovan, Dennis",1880,-87.9634679,46.5138246
+"165",634,"Donworth","George"," ",1861,"Machias","ME","M","White","Georgetown College (now Georgetown University)","Machias, ME","Donworth, George",1860,-67.461376,44.7150789
+"166",635,"Dooley","Joseph","Brannon",1889,"San Angelo","TX","M","White","University of Texas School of Law","San Angelo, TX","Dooley, Joseph",1880,-100.4370375,31.4637723
+"167",637,"Dooling","Maurice","Timothy",1860,"Moore`s Flat","CA","M","White","St. Mary`s College of California","Moore`s Flat, CA","Dooling, Maurice",1860,-120.850833,39.419167
+"168",640,"Douglas","William","Orville",1898,"Maine","MN","M","White","Whitman College","Maine, MN","Douglas, William",1890,-95.8172718,46.412182
+"169",3239,"Downey","George","Eddy",1860,"Rising Sun","IN","M","White","Indiana Asbury University (now DePauw University)","Rising Sun, IN","Downey, George",1860,-84.853838,38.9495047
+"170",648,"Driver","Samuel","Marion",1892,"Wamic","OR","M","White","University of Washington School of Law","Wamic, OR","Driver, Samuel",1890,-121.2692327,45.2281727
+"171",649,"Druffel","John","H.",1886,"Cincinnatti","OH","M","White","YMCA Law School (now Northern Kentucky University, Chase College of Law)","Cincinnatti, OH","Druffel, John",1880,-84.5120196,39.1031182
+"172",654,"Duell","Charles","Holland",1850,"Cortland","NY","M","White","Hamilton College","Cortland, NY","Duell, Charles",1850,-76.1804843,42.6011813
+"173",656,"Duffy","Francis","Ryan",1888,"Fond du Lac","WI","M","White","University of Wisconsin","Fond du Lac, WI","Duffy, Francis",1880,-88.4470508,43.7730448
+"174",662,"Duncan","Richard","M.",1889,"St. Joseph","MO","M","White","Read law","St. Joseph, MO","Duncan, Richard",1880,-94.846681,39.7674578
+"175",3269,"Durfee","James","Randall",1897,"Oshkosh","WI","M","White","Marquette University Law School","Oshkosh, WI","Durfee, James",1890,-88.5426136,44.0247062
+"176",688,"Edgerton","Henry","White",1888,"Rush Center","KS","M","White","Cornell University","Rush Center, KS","Edgerton, Henry",1880,-99.3101052,38.4652912
+"177",694,"Egan","Thomas","C.",1894,"Shenandoah","PA","M","White","Georgetown College (now Georgetown University)","Shenandoah, PA","Egan, Thomas",1890,-76.2007734,40.8203658
+"178",696,"Eicher","Edward","Clayton",1878,"Noble","IA","M","White","University of Chicago","Noble, IA","Eicher, Edward",1870,-94.9974461,41.1927571
+"179",3301,"Ekwall","William","Alexander",1887,"Ludington","MI","M","White","University of Oregon School of Law","Ludington, MI","Ekwall, William",1880,-86.4525831,43.9552825
+"180",699,"Elliott","James","Douglas",1859,"Mt. Sterling","IL","M","White","Read law","Mt. Sterling, IL","Elliott, James",1850,-90.763463,39.9872707
+"181",709,"English","George","Washington",1866,"near Vienna","IL","M","White","Illinois Wesleyan University Law School","near Vienna, IL","English, George",1860,-88.8978434,37.4153295
+"182",712,"Erskine","Herbert","Wilson",1888,"San Francisco","CA","M","White","University of California, Berkeley","San Francisco, CA","Erskine, Herbert",1880,-122.4194155,37.7749295
+"183",714,"Ervin","Robert","Tait",1863,"Wilcox County","AL","M","White","University of Alabama School of Law","Wilcox County, AL","Ervin, Robert",1860,-87.3413599,32.0105439
+"184",719,"Estes","William","Lee",1870,"Boston","TX","M","White","Hampden-Sydney College","Boston, TX","Estes, William",1870,-94.4154787,33.4598415
+"185",721,"Evans","Beverly","Daniel",1865,"Sandersville","GA","M","White","Mercer University","Sandersville, GA","Evans, Beverly",1860,-82.810138,32.9815431
+"186",722,"Evans","Evan","Alfred",1876,"Spring Green","WI","M","White","University of Wisconsin","Spring Green, WI","Evans, Evan",1870,-90.0679016,43.1752695
+"187",3302,"Evans","Walter","Howard",1870,"New Middletown","IN","M","White","Northern Indiana Normal School (now Valparaiso University)","New Middletown, IN","Evans, Walter",1870,-86.0508016,38.1639583
+"188",730,"Fahy","Charles"," ",1892,"Rome","GA","M","White","Georgetown College Law School (now Georgetown University Law Center)","Rome, GA","Fahy, Charles",1890,-85.1646726,34.257038
+"189",732,"Fake","Guy","Leverne",1879,"Cobleskill","NY","M","White","New York University School of Law","Cobleskill, NY","Fake, Guy",1870,-74.4854172,42.677853
+"190",734,"Faris","Charles","Breckenridge",1864,"near Charleston","MO","M","White","University of Missouri","near Charleston, MO","Faris, Charles",1860,-89.350631,36.9208854
+"191",736,"Farrington","Edward","Silsby",1856,"Yreka","CA","M","White","Amherst College","Yreka, CA","Farrington, Edward",1850,-122.6344708,41.7354186
+"192",740,"Fee","James","Alger",1888,"Pendleton","OR","M","White","Whitman College","Pendleton, OR","Fee, James",1880,-118.7885967,45.672075
+"193",755,"Finnegan","Philip","J.",1886,"Chicago","IL","M","White","University of Chicago Law School","Chicago, IL","Finnegan, Philip",1880,-87.6297982,41.8781136
+"194",3304,"Fischer","Israel","Fredrick",1858,"New York","NY","M","White","Read law","New York, NY","Fischer, Israel",1850,-74.0059413,40.7127837
+"195",763,"FitzHenry","Louis"," ",1870,"Bloomington","IL","M","White","Illinois Wesleyan University Law School","Bloomington, IL","FitzHenry, Louis",1870,-88.9936873,40.4842027
+"196",772,"Foley","Roger","Thomas",1886,"Sioux City","IA","M","White","University of Chicago Law School","Sioux City, IA","Foley, Roger",1880,-96.4003069,42.4999942
+"197",773,"Follmer","Frederick","Voris",1885,"Milton","PA","M","White","Bucknell University","Milton, PA","Follmer, Frederick",1880,-76.8477412,41.0120296
+"198",776,"Ford","Francis","Joseph William",1882,"Boston","MA","M","White","Harvard College","Boston, MA","Ford, Francis",1880,-71.0597732,42.3584308
+"199",777,"Ford","Hiram","Church",1884,"Scott County","KY","M","White","Georgetown College, Kentucky","Scott County, KY","Ford, Hiram",1880,-84.564147,38.3172361
+"200",781,"Forman","Phillip"," ",1895,"New York","NY","M","White","Temple University School of Law","New York, NY","Forman, Phillip",1890,-74.0059413,40.7127837
+"201",785,"Foster","Rufus","Edward",1871,"Mathews County","VA","M","White","Tulane University Law School","Mathews County, VA","Foster, Rufus",1870,-76.317414,37.3912302
+"202",789,"Frank","Jerome","New",1889,"New York","NY","M","White","University of Chicago","New York, NY","Frank, Jerome",1880,-74.0059413,40.7127837
+"203",791,"Frankfurter","Felix"," ",1882,"Vienna","Austria","M","White","City College of New York","Vienna, Austria","Frankfurter, Felix",1880,16.3738189,48.2081743
+"204",793,"Freed","Emerich","B.",1897," ","Hungary","M","White","Western Reserve University (now Case Western Reserve University)"," , Hungary","Freed, Emerich",1890,19.503304,47.162494
+"205",2708,"Friedman","Monroe","Mark",1895,"Minneapolis","MN","M","White","University of California, Berkeley","Minneapolis, MN","Friedman, Monroe",1890,-93.26667,44.983334
+"206",813,"Galston","Clarence","G.",1876,"New York","NY","M","White","City College of New York","New York, NY","Galston, Clarence",1870,-74.0059413,40.7127837
+"207",814,"Ganey","James","Cullen",1899,"Phillipsburg","NJ","M","White","Lehigh University","Phillipsburg, NJ","Ganey, James",1890,-75.1901761,40.6937099
+"208",819,"Gardner","Archibald","K.",1867,"Gwen Sound","Canada","M","White","University of Iowa","Gwen Sound, Canada","Gardner, Archibald",1860,,
+"209",821,"Garrecht","Francis","Arthur",1870,"Walla Walla","WA","M","White","Read law","Walla Walla, WA","Garrecht, Francis",1870,-118.3430209,46.0645809
+"210",3327,"Garrett","Finis","James",1875,"near Ore Springs","TN","M","White","Bethel College","near Ore Springs, TN","Garrett, Finis",1870,-88.5781079,36.294783
+"211",824,"Garvin","Edwin","Louis",1877,"Brooklyn","NY","M","White","New York University","Brooklyn, NY","Garvin, Edwin",1870,-73.9441579,40.6781784
+"212",833,"Geiger","Ferdinand","August",1867,"Cassville","WI","M","White",,"Cassville, WI","Geiger, Ferdinand",1860,-90.9906836,42.7144374
+"213",851,"Gibson","Robert","Murray",1869,"Duncansville","PA","M","White","Washington and Jefferson College","Duncansville, PA","Gibson, Robert",1860,-78.433903,40.4234058
+"214",859,"Gilliam","Donnell"," ",1889,"Tarboro","NC","M","White","University of North Carolina","Tarboro, NC","Gilliam, Donnell",1880,-77.5358049,35.8968236
+"215",870,"Glenn","John","Lyles",1892,"Chester","SC","M","White","Wofford College","Chester, SC","Glenn, John",1890,-81.2142561,34.7048613
+"216",872,"Goddard","Henry","Warren",1876,"New York","NY","M","White","New York Law School","New York, NY","Goddard, Henry",1870,-74.0059413,40.7127837
+"217",878,"Goldsborough","Thomas","Alan",1877,"Caroline County","MD","M","White","Washington College, Chestertown, Maryland","Caroline County, MD","Goldsborough, Thomas",1870,-75.8533954,38.9105018
+"218",881,"Goodman","Louis","Earl",1892,"Lemoore","CA","M","White","University of California, Berkeley","Lemoore, CA","Goodman, Louis",1890,-119.7829107,36.3007835
+"219",882,"Goodrich","Herbert","Funk",1889,"Anoka","MN","M","White","Carleton College","Anoka, MN","Goodrich, Herbert",1880,-93.3871758,45.1977428
+"220",891,"Gordon","Peyton"," ",1870,"Washington","DC","M","White","Columbian University School of Law (now George Washington University Law School)","Washington, DC","Gordon, Peyton",1870,-77.0368707,38.9071923
+"221",892,"Gore","John","J.",1878,"Gainsboro","TN","M","White","Read law","Gainsboro, TN","Gore, John",1870,-85.6588665,36.3556149
+"222",895,"Gould","Ashley","Mulgrave",1859,"Lower Horton, Nova Scotia","Canada","M","White","Amherst College","Lower Horton, Nova Scotia, Canada","Gould, Ashley",1850,-64.3684805,45.0888537
+"223",3243,"Graham","Samuel","Jordan",1859,"Lexington","VA","M","White","Washington and Lee University","Lexington, VA","Graham, Samuel",1850,-79.4428157,37.7840208
+"224",3325,"Graham","William","Johnson",1872,"New Castle","PA","M","White","University of Illinois","New Castle, PA","Graham, William",1870,-80.347009,41.0036719
+"225",901,"Graven","Henry","Norman",1893,"St. James","MN","M","White","University of Minnesota","St. James, MN","Graven, Henry",1890,-94.6283192,43.9820734
+"226",3242,"Green","William","Raymond",1856,"Colchester","CT","M","White","Oberlin College","Colchester, CT","Green, William",1850,-72.3320051,41.5756728
+"227",921,"Groner","Duncan","Lawrence",1873,"Norfolk","VA","M","White","Washington and Lee University","Norfolk, VA","Groner, Duncan",1870,-76.2858726,36.8507689
+"228",923,"Grosscup","Peter","Stenger",1852,"Ashland","OH","M","White","Wittenberg College","Ashland, OH","Grosscup, Peter",1850,-82.3182178,40.8686675
+"229",924,"Grubb","Kenneth","Philip",1895,"Mauston","WI","M","White","University of Wisconsin Law School","Mauston, WI","Grubb, Kenneth",1890,-90.0773495,43.7971946
+"230",925,"Grubb","William","Irwin",1862,"Cincinnati","OH","M","White","Yale College","Cincinnati, OH","Grubb, William",1860,-84.5120196,39.1031182
+"231",937,"Hahn","George","Philip",1879,"Napoleon","OH","M","White","Ohio State University College of Law","Napoleon, OH","Hahn, George",1870,-84.1252243,41.3922726
+"232",940,"Haight","Thomas","Griffith",1879,"Freehold","NJ","M","White","Princeton University","Freehold, NJ","Haight, Thomas",1870,-74.299051,40.224382
+"233",948,"Hall","Peirson","Mitchell",1894,"Armour","SD","M","White","University of Southern California Law School","Armour, SD","Hall, Peirson",1890,-98.3467455,43.3186012
+"234",958,"Hamilton","Elwood"," ",1883,"Benson","KY","M","White","University of Louisville Law Department","Benson, KY","Hamilton, Elwood",1880,-88.350315,36.8572781
+"235",961,"Hamlin","Oliver","Deveta",1892,"Oakland","CA","M","White","University of California, Berkeley","Oakland, CA","Hamlin, Oliver",1890,-122.2711137,37.8043637
+"236",964,"Hand","Augustus","Noble",1869,"Elizabethtown","NY","M","White","Harvard College","Elizabethtown, NY","Hand, Augustus",1860,-73.5904478,44.2163337
+"237",965,"Hand","Learned"," ",1872,"Albany","NY","M","White","Harvard College","Albany, NY","Hand, Learned",1870,-73.7562317,42.6525793
+"238",967,"Haney","Bert","Emory",1879,"Lafayette","OR","M","White","University of Oregon School of Law","Lafayette, OR","Haney, Bert",1870,-123.1148259,45.2442834
+"239",970,"Hannay","Allen","Burroughs",1892,"Hempstead","TX","M","White","University of Texas School of Law","Hempstead, TX","Hannay, Allen",1890,-96.0782918,30.0974405
+"240",979,"Harlan","John","Marshall",1899,"Chicago","IL","M","White","Princeton University","Chicago, IL","Harlan, John",1890,-87.6297982,41.8781136
+"241",987,"Harrison","Benjamin"," ",1888,"San Bernardino","CA","M","White","Read law","San Bernardino, CA","Harrison, Benjamin",1880,-117.2897652,34.1083449
+"242",990,"Hartigan","John","Patrick",1887,"Providence","RI","M","White","Brown University","Providence, RI","Hartigan, John",1880,-71.4128343,41.8239891
+"243",991,"Hartshorne","Richard"," ",1888,"Newark","NJ","M","White","Princeton University","Newark, NJ","Hartshorne, Richard",1880,-74.1723667,40.735657
+"244",997,"Hastings","John","Simpson",1898,"Washington","IN","M","White","U.S. Military Academy","Washington, IN","Hastings, John",1890,-87.172789,38.6592152
+"245",998,"Hatch","Carl","A.",1889,"Kirwan","KS","M","White","Cumberland School of Law","Kirwan, KS","Hatch, Carl",1880,-96.7835196,39.0890134
+"246",3322,"Hatfield","Charles","Sherrod",1882,"West Millgrove","OH","M","White","Hanover College","West Millgrove, OH","Hatfield, Charles",1880,-83.491317,41.2439416
+"247",3245,"Hay","James"," ",1856,"Millwood","VA","M","White","University of Pennsylvania","Millwood, VA","Hay, James",1850,-78.0377754,39.069551
+"248",1007,"Hayes","Johnson","Jay",1886,"Purlear","NC","M","White","Wake Forest College School of Law","Purlear, NC","Hayes, Johnson",1880,-81.2842576,36.1820751
+"249",1011,"Hazel","John","Raymond",1860,"Buffalo","NY","M","White","Read law","Buffalo, NY","Hazel, John",1860,-78.8783689,42.8864468
+"250",1013,"Healey","Arthur","Daniel",1889,"Somerville","MA","M","White","Boston University School of Law","Somerville, MA","Healey, Arthur",1880,-71.0994968,42.3875968
+"251",1014,"Healy","William"," ",1881,"Windham","IA","M","White","University of Iowa","Windham, IA","Healy, William",1880,-91.7621164,41.6089026
+"252",1019,"Helvering","Guy","Tresillian",1878,"Felicity","OH","M","White","University of Michigan Law School","Felicity, OH","Helvering, Guy",1870,-84.096321,38.8389576
+"253",2693,"Henderson","David","Ezekiel",1879,"Deppe","NC","M","White","University of North Carolina","Deppe, NC","Henderson, David",1870,-77.2824568,34.8484937
+"254",1027,"Henning","Edward","J.",1868,"Iron Ridge","WI","M","White","University of Wisconsin","Iron Ridge, WI","Henning, Edward",1860,-88.5326008,43.3997196
+"255",1034,"Hickenlooper","Smith"," ",1880,"Cincinnati","OH","M","White","University of Cincinnati","Cincinnati, OH","Hickenlooper, Smith",1880,-84.5120196,39.1031182
+"256",1036,"Hicklin","Edwin","Richley",1895,"Wapello","IA","M","White","Drake University","Wapello, IA","Hicklin, Edwin",1890,-91.1854273,41.1814193
+"257",1037,"Hicks","Xenophon"," ",1872,"Clinton","TN","M","White","U.S. Grant University (now Tennessee Wesleyan College)","Clinton, TN","Hicks, Xenophon",1870,-84.1318632,36.1034126
+"258",1052,"Hincks","Carroll","Clark",1889,"Andover","MA","M","White","Yale University","Andover, MA","Hincks, Carroll",1880,-71.1367953,42.6583356
+"259",1057,"Hitz","William"," ",1872,"Washington","DC","M","White","Harvard College","Washington, DC","Hitz, William",1870,-77.0368707,38.9071923
+"260",1060,"Hodge","Walter","Hartman",1896,"Auburn","IN","M","White","University of Washington School of Law","Auburn, IN","Hodge, Walter",1890,-85.0588575,41.3669942
+"261",1062,"Hoehling","Adolph","A.",1868,"Philadelphia","PA","M","White","Columbian University School of Law (now George Washington University Law School)","Philadelphia, PA","Hoehling, Adolph",1860,-75.163789,39.952335
+"262",1064,"Hoffman","Julius","Jennings",1895,"Chicago","IL","M","White","Northwestern University","Chicago, IL","Hoffman, Julius",1890,-87.6297982,41.8781136
+"263",1074,"Holland","James","Buchanan",1857,"Gwynedd Township","PA","M","White","Read law","Gwynedd Township, PA","Holland, James",1850,-75.273396,40.1824261
+"264",1075,"Holland","John","Warthen",1883,"Jackson","TN","M","White","Southwestern Baptist University (now Union University, Jackson, Tennessee)","Jackson, TN","Holland, John",1880,-88.8139469,35.6145169
+"265",1076,"Hollister","Howard","Clark",1856,"Cincinnati","OH","M","White","Yale College","Cincinnati, OH","Hollister, Howard",1850,-84.5120196,39.1031182
+"266",1078,"Holly","William","Harrison",1869,"Bellefonte","PA","M","White","Read law","Bellefonte, PA","Holly, William",1860,-77.7783348,40.9133943
+"267",1079,"Hollzer","Harry","Aaron",1880,"New York","NY","M","White","University of California, Berkeley","New York, NY","Hollzer, Harry",1880,-74.0059413,40.7127837
+"268",1081,"Holmes","Edwin","Ruthven",1878,"Sidon","MS","M","White","Millsaps College","Sidon, MS","Holmes, Edwin",1870,-90.208889,33.408056
+"269",1086,"Holtzoff","Alexander"," ",1886,"New York","NY","M","White","Columbia University","New York, NY","Holtzoff, Alexander",1880,-74.0059413,40.7127837
+"270",1089,"Hook","William","Cather",1857,"Waynesburg","PA","M","White","Washington University School of Law","Waynesburg, PA","Hook, William",1850,-80.1792299,39.8964641
+"271",1090,"Hooper","Frank","Arthur",1895,"Americus","GA","M","White","Georgia School of Technology (now Georgia Institute of Technology)","Americus, GA","Hooper, Frank",1890,-84.2326876,32.0723861
+"272",1092,"Hopkins","Richard","Joseph",1873,"Jefferson City","MO","M","White","Northwestern University School of Law","Jefferson City, MO","Hopkins, Richard",1870,-92.1735164,38.5767017
+"273",1098,"Hough","Benson","W.",1875,"Delaware","OH","M","White","Ohio Wesleyan University","Delaware, OH","Hough, Benson",1870,-83.067965,40.2986724
+"274",1099,"Hough","Charles","Merrill",1858,"Philadelphia","PA","M","White","Dartmouth College","Philadelphia, PA","Hough, Charles",1850,-75.163789,39.952335
+"275",2715,"Howard","Clinton","Woodbury",1864,"Lima","OH","M","White","Griswold College, Davenport, Iowa","Lima, OH","Howard, Clinton",1860,-84.1052256,40.742551
+"276",1105,"Howe","Harland","Bradley",1873,"St. Johnsbury","VT","M","White","University of Michigan Law School","St. Johnsbury, VT","Howe, Harland",1870,-72.0151183,44.4192627
+"277",3306,"Howell","William","Barberie",1865,"Freehold","NJ","M","White","Spencerian Business College","Freehold, NJ","Howell, William",1860,-74.299051,40.224382
+"278",1113,"Hughes","Charles","Evans",1862,"Glens Falls","NY","M","White","Brown University","Glens Falls, NY","Hughes, Charles",1860,-73.6440058,43.3095164
+"279",1116,"Hughes","Sarah","Tilghman",1896,"Baltimore","MD","F","White","Goucher College","Baltimore, MD","Hughes, Sarah",1890,-76.6121893,39.2903848
+"280",1117,"Hulbert","George","Murray",1881,"Rochester","NY","M","White","New York University School of Law","Rochester, NY","Hulbert, George",1880,-77.6109219,43.16103
+"281",1118,"Hulen","Rubey","Mosley",1894,"Hallsville","MO","M","White","Kansas City School of Law (now University of Missouri-Kansas City School of Law)","Hallsville, MO","Hulen, Rubey",1890,-92.220735,39.1169851
+"282",1121,"Humphrey","J.","Otis",1850,"Morgan County","IL","M","White","Shurtleff College, Alton, Illinois","Morgan County, IL","Humphrey, J.",1850,-90.2244662,39.7341219
+"283",2713,"Hundley","Oscar","Richard",1855,"Limestone County","AL","M","White","Vanderbilt University Law School","Limestone County, AL","Hundley, Oscar",1850,-86.9423801,34.7800072
+"284",1126,"Hunt","William","Henry",1857,"New Orleans","LA","M","White","Read law","New Orleans, LA","Hunt, William",1850,-90.0715323,29.9510658
+"285",1135,"Hutcheson","Charles","Sterling",1894,"Mecklenburg County","VA","M","White","College of William and Mary","Mecklenburg County, VA","Hutcheson, Charles",1890,-78.3842227,36.6421724
+"286",1136,"Hutcheson","Joseph","Chappell",1879,"Houston","TX","M","White","University of Texas School of Law","Houston, TX","Hutcheson, Joseph",1870,-95.3693896,29.7601927
+"287",1139,"Huxman","Walter","August",1887,"Pretty Prairie","KS","M","White","University of Kansas School of Law","Pretty Prairie, KS","Huxman, Walter",1880,-98.0197792,37.7800135
+"288",1142,"Igoe","Michael","Lambert",1885,"St. Paul","MN","M","White","Georgetown College Law School (now Georgetown University Law Center)","St. Paul, MN","Igoe, Michael",1880,-93.0899578,44.9537029
+"289",1144,"Inch","Robert","Alexander",1873,"Providence","RI","M","White","College of New Jersey (now Princeton University)","Providence, RI","Inch, Robert",1870,-71.4128343,41.8239891
+"290",1153,"Jack","George","Whitfield",1875,"Natchitoches","LA","M","White","Tulane University Law School","Natchitoches, LA","Jack, George",1870,-93.0862749,31.7607195
+"291",3320,"Jackson","Joseph","Raymond",1880,"Albany","NY","M","White","Manhattan College","Albany, NY","Jackson, Joseph",1880,-73.7562317,42.6525793
+"292",1160,"Jackson","Robert","Houghwout",1892,"Spring Creek","PA","M","White","Albany Law School","Spring Creek, PA","Jackson, Robert",1890,-79.5253283,41.8758904
+"293",1163,"Jacobs","Fred","Clinton",1865,"Winchester","MA","M","White","University of Chicago","Winchester, MA","Jacobs, Fred",1860,-71.1369959,42.452303
+"294",1165,"James","William","P.",1870,"Buffalo","NY","M","White",,"Buffalo, NY","James, William",1870,-78.8783689,42.8864468
+"295",1166,"Jameson","William","James",1898,"Butte","MT","M","White","University of Montana","Butte, MT","Jameson, William",1890,-112.5347776,46.0038232
+"296",1171,"Jenney","Ralph","E.",1883,"Detroit","MI","M","White","University of Michigan","Detroit, MI","Jenney, Ralph",1880,-83.0457538,42.331427
+"297",1173,"Jertberg","Gilbert","H.",1897,"Springfield","MO","M","White","Stanford University","Springfield, MO","Jertberg, Gilbert",1890,-93.2922989,37.2089572
+"298",1174,"Johnsen","Harvey","M.",1895,"Hastings","NE","M","White","University of Nebraska College of Law","Hastings, NE","Johnsen, Harvey",1890,-98.3898726,40.5862583
+"299",1176,"Johnson","Albert","Williams",1872,"Weikert","PA","M","White","Bucknell University","Weikert, PA","Johnson, Albert",1870,-77.29526,40.858407
+"300",1179,"Johnson","Charles","Fletcher",1859,"Winslow","ME","M","White","Bowdoin College","Winslow, ME","Johnson, Charles",1850,-69.6203137,44.5459679
+"301",1181,"Johnson","George","E. Q.",1874,"Harcourt","IA","M","White","Tobin College, Fort Dodge, Iowa","Harcourt, IA","Johnson, George",1870,-94.1757943,42.2627534
+"302",3321,"Johnson","Jed","Joseph",1888,"Waxahachi","TX","M","White","University of Oklahoma College of Law","Waxahachi, TX","Johnson, Jed",1880,-96.8483311,32.3865312
+"303",1182,"Johnson","Joseph","Travis",1858,"Brewerton","SC","M","White","Erskine College","Brewerton, SC","Johnson, Joseph",1850,-82.2401171,34.4306734
+"304",3317,"Johnson","Noble","Jacob",1887,"Terre Haute","IN","M","White","Read law","Terre Haute, IN","Johnson, Noble",1880,-87.4139092,39.4667034
+"305",1187,"Johnson","Tillman","Davis",1858,"Rutherford County","TN","M","White","Cumberland University","Rutherford County, TN","Johnson, Tillman",1850,-86.3376761,35.7724263
+"306",1193,"Jones","Charles","Alvin",1887,"Newport","PA","M","White","Dickinson School of Law","Newport, PA","Jones, Charles",1880,-77.1305373,40.4778612
+"307",3272,"Jones","John","Marvin",1886,"Valley View","TX","M","White","John B. Denton College, Denton, Texas","Valley View, TX","Jones, John",1880,-97.1650128,33.4881671
+"308",1198,"Jones","Lake"," ",1867,"Vicksburg","MS","M","White","Northwestern University School of Law","Vicksburg, MS","Jones, Lake",1860,-90.877882,32.3526456
+"309",1202,"Jones","Paul","J.",1880,"Youngstown","OH","M","White","University of Michigan Law School","Youngstown, OH","Jones, Paul",1880,-80.6495194,41.0997803
+"310",1206,"Jones","Warren","Leroy",1895,"Gordon","NE","M","White","University of Denver College of Law","Gordon, NE","Jones, Warren",1890,-102.2037736,42.8027753
+"311",1211,"Joyce","Matthew","M.",1877,"Emmetsburg","IA","M","White","University of Michigan Law School","Emmetsburg, IA","Joyce, Matthew",1870,-94.6830357,43.1127427
+"312",1220,"Kalbfleisch","Girard","Edward",1899,"Piqua","OH","M","White","Ohio Northern University, Warren G. Harding College of Law","Piqua, OH","Kalbfleisch, Girard",1890,-84.2424449,40.1447732
+"313",1221,"Kalodner","Harry","Ellis",1896,"Philadelphia","PA","M","White","University of Pennsylvania Law School","Philadelphia, PA","Kalodner, Harry",1890,-75.163789,39.952335
+"314",1232,"Kaufman","Samuel","Hamilton",1893,"New York","NY","M","White","New York University School of Law","New York, NY","Kaufman, Samuel",1890,-74.0059413,40.7127837
+"315",1237,"Keech","Richmond","Bowling",1896,"Washington","DC","M","White","Georgetown College Law School (now Georgetown University Law Center)","Washington, DC","Keech, Richmond",1890,-77.0368707,38.9071923
+"316",3307,"Keefe","William","John",1873,"Clinton","IA","M","White","University of Iowa College of Law","Clinton, IA","Keefe, William",1870,-90.1887379,41.8444735
+"317",1239,"Keeling","Walter","Angus",1873,"Kosse","TX","M","White","University of Texas School of Law","Kosse, TX","Keeling, Walter",1870,-96.6319231,31.3076774
+"318",1247,"Keller","Benjamin","Franklin",1857,"Boalsburg","PA","M","White","Pennsylvania State College","Boalsburg, PA","Keller, Benjamin",1850,-77.7924992,40.7756184
+"319",1253,"Kennamer","Charles","Brents",1874,"Marshall County","AL","M","White","Georgetown College (now Georgetown University)","Marshall County, AL","Kennamer, Charles",1870,-86.3376761,34.3652297
+"320",1255,"Kennamer","Franklin","Elmore",1879,"Kennamer Cove","AL","M","White","Read law","Kennamer Cove, AL","Kennamer, Franklin",1870,-86.2574446,34.5881313
+"321",1258,"Kennedy","Harold","Maurice",1895,"Brooklyn","NY","M","White","City College of New York","Brooklyn, NY","Kennedy, Harold",1890,-73.9441579,40.6781784
+"322",1259,"Kennedy","Thomas","Blake",1874,"Commerce","MI","M","White","Franklin College, New Athens, Ohio","Commerce, MI","Kennedy, Thomas",1870,-83.4882347,42.5750853
+"323",1260,"Kennerly","Thomas","Martin",1874,"Lee County","TX","M","White","Read law","Lee County, TX","Kennerly, Thomas",1870,-96.9638624,30.2967161
+"324",1264,"Kenyon","William","Squire",1869,"Elyria","OH","M","White","Grinnell College","Elyria, OH","Kenyon, William",1860,-82.1076486,41.3683798
+"325",1266,"Kerner","Otto"," ",1884,"Chicago","IL","M","White","Lake Forest University","Chicago, IL","Kerner, Otto",1880,-87.6297982,41.8781136
+"326",1269,"Kerrigan","Frank","Henry",1868,"Contra Costa County","CA","M","White","Read law","Contra Costa County, CA","Kerrigan, Frank",1860,-121.9017954,37.8534093
+"327",1278,"Killits","John","Milton",1858,"Lithopolis","OH","M","White","Williams College","Lithopolis, OH","Killits, John",1850,-82.8062848,39.8028415
+"328",3308,"Kincheloe","David","Hayes",1877,"Sacramento","KY","M","White","Bowling Green Business College (now Western Kentucky University)","Sacramento, KY","Kincheloe, David",1870,-87.2655531,37.4158783
+"329",1279,"King","Alexander","Campbell",1856,"Charleston","SC","M","White","Read law","Charleston, SC","King, Alexander",1850,-79.9310512,32.7764749
+"330",1287,"Kirkpatrick","William","Huntington",1885,"Easton","PA","M","White","Lafayette College","Easton, PA","Kirkpatrick, William",1880,-75.2207323,40.688432
+"331",1291,"Kloeb","Frank","Le Blond",1890,"Celina","OH","M","White","Ohio State University","Celina, OH","Kloeb, Frank",1890,-84.5702338,40.5489358
+"332",1295,"Knappen","Loyal","Edwin",1854,"Hastings","MI","M","White","University of Michigan","Hastings, MI","Knappen, Loyal",1850,-85.2908403,42.6458682
+"333",1296,"Knight","John"," ",1871,"Arcade","NY","M","White","University of Rochester","Arcade, NY","Knight, John",1870,-78.4230737,42.5339513
+"334",1297,"Knoch","Winfred","George",1895,"Naperville","IL","M","White","DePaul University College of Law","Naperville, IL","Knoch, Winfred",1890,-88.1618829,41.7460695
+"335",1298,"Knous","William","Lee",1889,"Ouray","CO","M","White","University of Colorado Law School","Ouray, CO","Knous, William",1880,-107.6714487,38.0227716
+"336",1301,"Knox","John","Clark",1881,"Waynesburg","PA","M","White","Waynesburg College","Waynesburg, PA","Knox, John",1880,-80.1792299,39.8964641
+"337",1311,"Koscinski","Arthur","A.",1887,"Posen","Poland","M","White","University of Michigan Law School","Posen, Poland","Koscinski, Arthur",1880,16.9251681,52.406374
+"338",1324,"LaBuy","Walter","J.",1888,"Dodge County","WI","M","White","DePaul University College of Law","Dodge County, WI","LaBuy, Walter",1880,-88.7108964,43.3994215
+"339",1330,"Lamar","Joseph","Rucker",1857,"Cedar Grove","GA","M","White","Bethany College","Cedar Grove, GA","Lamar, Joseph",1850,-82.8820856,32.2501735
+"340",1332,"Lambdin","William","Wallace",1861,"Upson County","GA","M","White","University of Georgia","Upson County, GA","Lambdin, William",1860,-84.3121264,32.9047684
+"341",1337,"Landis","Kenesaw","Mountain",1866,"Millville","OH","M","White","YMCA Law School (now Northern Kentucky University, Chase College of Law)","Millville, OH","Landis, Kenesaw",1860,-84.6543933,39.3892219
+"342",3309,"Lawrence","Charles","Drummond",1878,"North Yarmouth","ME","M","White","New York Law School","North Yarmouth, ME","Lawrence, Charles",1870,-70.2388706,43.85735
+"343",1354,"Laws","Bolitha","James",1891,"Washington","DC","M","White","Georgetown College Law School (now Georgetown University Law Center)","Washington, DC","Laws, Bolitha",1890,-77.0368707,38.9071923
+"344",2694,"Leahy","Edward","Lawrence",1886,"Bristol","RI","M","White","Georgetown College Law School (now Georgetown University Law Center)","Bristol, RI","Leahy, Edward",1880,-71.2662025,41.6771101
+"345",1359,"Leamy","James","Patrick",1892,"West Rutland","VT","M","White","College of the Holy Cross","West Rutland, VT","Leamy, James",1890,-73.0451081,43.5930919
+"346",1361,"Leavy","Charles","Henry",1884,"York","PA","M","White","Kansas City School of Law (now University of Missouri-Kansas City School of Law)","York, PA","Leavy, Charles",1880,-76.727745,39.9625984
+"347",1365,"Lederle","Arthur","F.",1887,"Leland","MI","M","White","Eastern Michigan College","Leland, MI","Lederle, Arthur",1880,-85.7601797,45.0229612
+"348",1367,"Lee","Elmo","Pearce",1882,"Coushatta","LA","M","White","Louisiana State University Law School","Coushatta, LA","Lee, Elmo",1880,-93.3421165,32.0148834
+"349",1372,"Leibell","Vincent","L.",1883,"New York","NY","M","White","St. Francis Xavier College","New York, NY","Leibell, Vincent",1880,-74.0059413,40.7127837
+"350",1376,"Lemley","Harry","Jacob",1883,"Upperville","VA","M","White","Washington and Lee University School of Law","Upperville, VA","Lemley, Harry",1880,-77.884722,38.993889
+"351",1377,"Lemmon","Dal","Millington",1887,"Newton","KS","M","White","Stanford University","Newton, KS","Lemmon, Dal",1880,-97.3450365,38.0466779
+"352",3312,"Lenroot","Irvine","Luther",1869,"Superior","WI","M","White","Parsons Business College, Duluth, Minnesota","Superior, WI","Lenroot, Irvine",1860,-92.1040796,46.7207737
+"353",1381,"Letts","Fred","Dickinson",1875,"Ainsworth","IA","M","White","Parsons College, Fairfield, Iowa","Ainsworth, IA","Letts, Fred",1870,-91.5515505,41.2875208
+"354",1382,"Letts","Ira","Lloyd",1889,"Cortland County","NY","M","White","Brown University","Cortland County, NY","Letts, Ira",1880,-75.9927652,42.5440918
+"355",1386,"Levet","Richard","Harrington",1894,"Geneva","NY","M","White","Colgate University","Geneva, NY","Levet, Richard",1890,-76.985557,42.8679836
+"356",1389,"Levin","Theodore"," ",1897,"Chicago","IL","M","White","University of Detroit Law School (now University of Detroit Mercy School of Law)","Chicago, IL","Levin, Theodore",1890,-87.6297982,41.8781136
+"357",1393,"Lewis","Robert","E.",1857,"Cass County","MO","M","White","Westminster College, Fulton, Missouri","Cass County, MO","Lewis, Robert",1850,-94.315422,38.6574448
+"358",1401,"Lindley","Walter","C.",1880,"Neoga","IL","M","White","University of Illinois","Neoga, IL","Lindley, Walter",1880,-88.4528261,39.3194817
+"359",1403,"Ling","David","W.",1890,"Ann Arbor","MI","M","White","University of Southern California Law School","Ann Arbor, MI","Ling, David",1890,-83.7430378,42.2808256
+"360",3266,"Littleton","Benjamin","Horsley",1889,"Weatherford","TX","M","White","Cumberland School of Law","Weatherford, TX","Littleton, Benjamin",1880,-97.7972544,32.7592955
+"361",1414,"Long","Augustus","V.",1877,"Lake City","FL","M","White","Florida Agricultural College (now University of Florida)","Lake City, FL","Long, Augustus",1870,-82.6392899,30.1896756
+"362",1421,"Louderback","Harold"," ",1881,"San Francisco","CA","M","White","Nevada State University (now University of Nevada, Reno)","San Francisco, CA","Louderback, Harold",1880,-122.4194155,37.7749295
+"363",1426,"Lovett","Archibald","Battle",1884,"Sylvania","GA","M","White","Mercer University","Sylvania, GA","Lovett, Archibald",1880,-81.636776,32.7504441
+"364",1428,"Lowell","Francis","Cabot",1855,"Boston","MA","M","White","Harvard University","Boston, MA","Lowell, Francis",1850,-71.0597732,42.3584308
+"365",1429,"Lowell","James","Arnold",1869,"Newton","MA","M","White","Harvard University","Newton, MA","Lowell, James",1860,-71.2092214,42.3370413
+"366",1436,"Luhring","Oscar","Raymond",1879,"Gibson County","IN","M","White","University of Virginia School of Law","Gibson County, IN","Luhring, Oscar",1870,-87.5791287,38.3338249
+"367",1438,"Lumpkin","Alva","Moore",1886,"Milledgeville","GA","M","White","University of South Carolina School of Law","Milledgeville, GA","Lumpkin, Alva",1880,-83.2320991,33.0801429
+"368",1442,"Luse","Claude","Zeth",1879,"Stoughton","WI","M","White","University of Minnesota","Stoughton, WI","Luse, Claude",1870,-89.2178937,42.9169462
+"369",1445,"Lynch","Charles","Francis",1884,"Franklin","NJ","M","White","Read law","Franklin, NJ","Lynch, Charles",1880,-74.550447,40.476872
+"370",1452,"Machrowicz","Thaddeus","M.",1899,"Gostyn","Poland","M","White","Detroit College of Law (now Michigan State University College of Law)","Gostyn, Poland","Machrowicz, Thaddeus",1890,17.01215,51.8786
+"371",1453,"Mack","Julian","William",1866,"San Francisco","CA","M","White","Harvard Law School","San Francisco, CA","Mack, Julian",1860,-122.4194155,37.7749295
+"372",3248,"Madden","Joseph","Warren",1890,"Damascus","IL","M","White","University of Illinois","Damascus, IL","Madden, Joseph",1890,-89.7062292,42.3722378
+"373",1463,"Magruder","Calvert"," ",1893,"Annapolis","MD","M","White","St. John`s College, Annapolis, Maryland","Annapolis, MD","Magruder, Calvert",1890,-76.4921829,38.9784453
+"374",1465,"Mahoney","John","Christopher",1882,"Cork","Ireland","M","White","Brown University","Cork, Ireland","Mahoney, John",1880,-8.4863157,51.8968917
+"375",1467,"Major","James","Earl",1887,"Donnellson","IL","M","White","Illinois College of Law (now DePaul University College of Law)","Donnellson, IL","Major, James",1880,-89.4734175,39.027824
+"376",1469,"Mandelbaum","Samuel"," ",1884," ","Russia","M","White","New York University School of Law"," , Russia","Mandelbaum, Samuel",1880,105.318756,61.52401
+"377",1475,"Manton","Martin","Thomas",1880,"New York","NY","M","White","Columbia Law School","New York, NY","Manton, Martin",1880,-74.0059413,40.7127837
+"378",1478,"Maris","Albert","Branson",1893,"Philadelphia","PA","M","White","Temple University School of Law","Philadelphia, PA","Maris, Albert",1890,-75.163789,39.952335
+"379",1487,"Marshall","John","Augustine",1854,"near Warrenton","VA","M","White","University of Virginia School of Law","near Warrenton, VA","Marshall, John",1850,-77.7952712,38.7134516
+"380",1492,"Martin","George","Ewing",1857,"Lancaster","OH","M","White","Wittenberg College","Lancaster, OH","Martin, George",1850,-82.5993294,39.7136754
+"381",1495,"Martin","John","Donelson",1883,"Memphis","TN","M","White","University of Virginia School of Law","Memphis, TN","Martin, John",1880,-90.0489801,35.1495343
+"382",1497,"Martineau","John","Ellis",1873,"Clay County","MO","M","White","Arkansas Industrial University (now University of Arkansas)","Clay County, MO","Martineau, John",1870,-94.479976,39.3176186
+"383",1501,"Mathes","William","Carey",1899,"Hale Center","TX","M","White","University of Texas","Hale Center, TX","Mathes, William",1890,-101.8437866,34.0642436
+"384",1502,"Mathews","Clifton"," ",1880,"Concord","GA","M","White","Read law","Concord, GA","Mathews, Clifton",1880,-84.4374232,33.0912359
+"385",1506,"Matthews","Burnita","Shelton",1894,"Burnell","MS","F","White","National University School of Law (now George Washington University Law School)","Burnell, MS","Matthews, Burnita",1890,-90.7458188,31.808504
+"386",1511,"Mayer","Julius","Marshuetz",1865,"New York","NY","M","White","City College of New York","New York, NY","Mayer, Julius",1860,-74.0059413,40.7127837
+"387",1514,"McAllister","Thomas","Francis",1896,"Grand Rapids","MI","M","White","University of Michigan Law School","Grand Rapids, MI","McAllister, Thomas",1890,-85.6680863,42.9633599
+"388",1520,"McCall","John","Ethridge",1859,"Clarksburg","TN","M","White","University of Tennessee","Clarksburg, TN","McCall, John",1850,-88.3931039,35.8717309
+"389",1522,"McCamant","Wallace"," ",1867,"Hollidaysburg","PA","M","White","Lafayette College","Hollidaysburg, PA","McCamant, Wallace",1860,-78.3889024,40.4272949
+"390",1524,"McCarthy","James","William",1872,"Jersey City","NJ","M","White","New York Law School","Jersey City, NJ","McCarthy, James",1870,-74.0776417,40.7281575
+"391",1525,"McCarthy","William","T.",1885,"Somerville","MA","M","White","College of the Holy Cross","Somerville, MA","McCarthy, William",1880,-71.0994968,42.3875968
+"392",3323,"McClelland","Charles","Paul",1854,"Glenluce","Scotland","M","White","New York University School of Law","Glenluce, Scotland","McClelland, Charles",1850,-4.8087989,54.879954
+"393",1527,"McClintic","George","Warwick",1866,"Pocohontas County","WV","M","White","Roanoke College","Pocohontas County, WV","McClintic, George",1860,-80.0087746,38.3101706
+"394",1530,"McColloch","Claude","Charles",1888,"Red Bluff","CA","M","White","University of Chicago Law School","Red Bluff, CA","McColloch, Claude",1880,-122.2358302,40.1784886
+"395",1532,"McCord","Leon","Clarence",1878,"Conyers","GA","M","White","Vanderbilt University","Conyers, GA","McCord, Leon",1870,-84.0176904,33.6676103
+"396",1534,"McCormick","Paul","John",1879,"New York","NY","M","White","St. Ignatius College (now University of San Francisco)","New York, NY","McCormick, Paul",1870,-74.0059413,40.7127837
+"397",1535,"McCoy","Walter","Irving",1859,"Troy","NY","M","White","Harvard University","Troy, NY","McCoy, Walter",1850,-73.6917851,42.7284117
+"398",1541,"McDermott","George","Thomas",1886,"Winfield","KS","M","White","University of Chicago","Winfield, KS","McDermott, George",1880,-96.9955918,37.2397486
+"399",1545,"McDowell","Henry","Clay",1861,"Louisville","KY","M","White","Yale College","Louisville, KY","McDowell, Henry",1860,-85.7584557,38.2526647
+"400",1546,"McDuffie","John"," ",1883,"River Ridge","AL","M","White","Alabama Polytechnic Institute (now Auburn University)","River Ridge, AL","McDuffie, John",1880,-86.4838595,34.598533
+"401",1550,"McGarraghy","Joseph","Charles",1897,"Washington","DC","M","White","Georgetown College Law School (now Georgetown University Law Center)","Washington, DC","McGarraghy, Joseph",1890,-77.0368707,38.9071923
+"402",1551,"McGee","John","Franklin",1861,"Amboy","IL","M","White","Read law","Amboy, IL","McGee, John",1860,-89.3287061,41.7141997
+"403",1553,"McGohey","John","F. X.",1894,"New York","NY","M","White","Fordham University","New York, NY","McGohey, John",1890,-74.0059413,40.7127837
+"404",1556,"McGranery","James","Patrick",1895,"Philadelphia","PA","M","White","Temple University School of Law","Philadelphia, PA","McGranery, James",1890,-75.163789,39.952335
+"405",1557,"McGuire","Matthew","Francis",1898,"St. John`s","Canada","M","White","College of the Holy Cross","St. John`s, Canada","McGuire, Matthew",1890,-52.7128315,47.5605413
+"406",1558,"McHugh","William","Douglas",1859,"Galena","IL","M","White","Read law","Galena, IL","McHugh, William",1850,-90.4290168,42.4166744
+"407",1564,"McKeehan","Charles","Louis",1876,"Philadelphia","PA","M","White","University of Pennsylvania","Philadelphia, PA","McKeehan, Charles",1870,-75.163789,39.952335
+"408",1575,"McLaughlin","Charles","Francis",1887,"Lincoln","NE","M","White","University of Nebraska","Lincoln, NE","McLaughlin, Charles",1880,-96.675278,40.809722
+"409",1576,"McLaughlin","Gerald"," ",1893,"Newark","NJ","M","White","Fordham College","Newark, NJ","McLaughlin, Gerald",1890,-74.1723667,40.735657
+"410",1582,"McLellan","Hugh","Dean",1876,"Belfast","ME","M","White","Colby College","Belfast, ME","McLellan, Hugh",1870,-69.0064234,44.4259092
+"411",1585,"McMillan","Robert","Johnston",1885,"Galveston","TX","M","White","University of Texas School of Law","Galveston, TX","McMillan, Robert",1880,-94.7976958,29.3013479
+"412",1591,"McNamee","Charles","Joseph",1890,"Cleveland","OH","M","White","Cleveland Law School (now Cleveland-Marshall College of Law)","Cleveland, OH","McNamee, Charles",1890,-81.6943605,41.49932
+"413",1593,"McNary","John","Hugh",1867,"Marion County","OR","M","White","University of Oregon","Marion County, OR","McNary, John",1860,-122.5927411,44.8446393
+"414",1602,"McReynolds","James","Clark",1862,"Elkton","KY","M","White","Vanderbilt University","Elkton, KY","McReynolds, James",1860,-87.1541675,36.8100425
+"415",1603,"McVicar","Nelson"," ",1871,"Chatham, Ontario","Canada","M","White","University of Michigan Law School","Chatham, Ontario, Canada","McVicar, Nelson",1870,-82.1910376,42.4048018
+"416",1605,"Meaney","Thomas","Francis",1888,"Jersey City","NJ","M","White","St. Peter`s College","Jersey City, NJ","Meaney, Thomas",1880,-74.0776417,40.7281575
+"417",1609,"Medina","Harold","Raymond",1888,"Brooklyn","NY","M","White","Princeton University","Brooklyn, NY","Medina, Harold",1880,-73.9441579,40.6781784
+"418",1610,"Meek","Edward","Roscoe",1865,"Davenport","IA","M","White","University of Iowa","Davenport, IA","Meek, Edward",1860,-90.5776367,41.5236437
+"419",1611,"Meekins","Isaac","Melson",1875,"Tyrrell County","NC","M","White","Wake Forest College","Tyrrell County, NC","Meekins, Isaac",1870,-76.1783739,35.8925537
+"420",1615,"Mellott","Arthur","Johnson",1888,"Wallula","KS","M","White","Kansas City School of Law (now University of Missouri-Kansas City School of Law)","Wallula, KS","Mellott, Arthur",1880,-94.9004242,39.205577
+"421",1634,"Michie","Thomas","Johnson",1896,"Northport","NY","M","White","University of Virginia","Northport, NY","Michie, Thomas",1890,-73.3431727,40.9009313
+"422",1642,"Miller","Andrew"," ",1870," ","Denmark","M","White","Read law"," , Denmark","Miller, Andrew",1870,9.501785,56.26392
+"423",1646,"Miller","John","Elvis",1888,"Aid","MO","M","White","University of Kentucky College of Law","Aid, MO","Miller, John",1880,-90.0412061,36.876997
+"424",1648,"Miller","Justin"," ",1888,"Crescent City","CA","M","White","Stanford University","Crescent City, CA","Miller, Justin",1880,-124.2025913,41.7557501
+"425",1651,"Miller","Shackelford"," ",1892,"Louisvillle","KY","M","White","Princeton University","Louisvillle, KY","Miller, Shackelford",1890,-85.7584557,38.2526647
+"426",1653,"Miller","Wilbur","Kingsbury",1892,"Owensboro","KY","M","White","University of Michigan","Owensboro, KY","Miller, Wilbur",1890,-87.1111676,37.7719074
+"427",1656,"Miner","Julius","Howard",1896,"Lubon","Russia","M","White","Chicago-Kent College of Law","Lubon, Russia","Miner, Julius",1890,17.4924911,54.0255881
+"428",1658,"Minton","Sherman"," ",1890,"Georgetown","IN","M","White","Indiana University School of Law -- Bloomington (now Maurer School of Law)","Georgetown, IN","Minton, Sherman",1890,-85.9755239,38.2945115
+"429",1662,"Mize","Sidney","Carr",1888,"Scott County","MS","M","White","Mississippi College","Scott County, MS","Mize, Sidney",1880,-89.4742177,32.4456315
+"430",1663,"Modarelli","Alfred","Egidio",1898,"Union City","NJ","M","White","Columbia University","Union City, NJ","Modarelli, Alfred",1890,-74.2631635,40.6975898
+"431",1664,"Moinet","Edward","Julien",1873,"Louisville","OH","M","White","University of Michigan Law School","Louisville, OH","Moinet, Edward",1870,-81.2595519,40.8372809
+"432",3310,"Mollison","Irvin","Charles",1898,"Vicksburg","MS","M","African American","University of Chicago","Vicksburg, MS","Mollison, Irvin",1890,-90.877882,32.3526456
+"433",1666,"Molyneaux","Joseph","West",1863,"Bellevue","KY","M","White","Cincinnati Law School (now University of Cincinnati College of Law)","Bellevue, KY","Molyneaux, Joseph",1860,-84.478831,39.1064488
+"434",1672,"Moody","William","Henry",1853,"Newbury","MA","M","White","Harvard College","Newbury, MA","Moody, William",1850,-70.845833,42.766667
+"435",1674,"Moore","Ben"," ",1891,"Salyersville","KY","M","White","Read law","Salyersville, KY","Moore, Ben",1890,-83.0687816,37.7525922
+"436",1675,"Moore","George"," ",1878,"La Grange","MO","M","White","University of Missouri School of Law","La Grange, MO","Moore, George",1870,-91.4976544,40.0428236
+"437",1679,"Moore","Leonard","Page",1898,"Evanston","IL","M","White","Amherst College","Evanston, IL","Moore, Leonard",1890,-87.6876969,42.0450722
+"438",1682,"Moorman","Charles","Harwood",1876,"Big Spring","KY","M","White","Read law","Big Spring, KY","Moorman, Charles",1870,-86.1521912,37.7992318
+"439",1691,"Morris","George","Franklin",1866,"Vershire","VT","M","White","Read law","Vershire, VT","Morris, George",1860,-72.320833,43.948333
+"440",1692,"Morris","Hugh","Martin",1878,"Greenwood","DE","M","White","Delaware College (now University of Delaware)","Greenwood, DE","Morris, Hugh",1870,-75.5913153,38.8070578
+"441",1693,"Morris","James","Ward",1890,"Smithfield","NC","M","White","University of North Carolina","Smithfield, NC","Morris, James",1890,-78.3394455,35.5084935
+"442",1696,"Morris","Page"," ",1853,"Lynchburg","VA","M","White","College of William and Mary","Lynchburg, VA","Morris, Page",1850,-79.1422464,37.4137536
+"443",1700,"Morton","James","Madison",1869,"Fall River","MA","M","White","Harvard College","Fall River, MA","Morton, James",1860,-71.1550451,41.7014912
+"444",1702,"Moscowitz","Grover","M.",1886,"Hot Springs","AR","M","White","New York University School of Law","Hot Springs, AR","Moscowitz, Grover",1880,-93.0551795,34.5037004
+"445",3249,"Moss","John","McKenzie",1868,"Bennettstown","KY","M","White","Kent College of Law (now Chicago-Kent College of Law)","Bennettstown, KY","Moss, John",1860,-87.611403,36.6956037
+"446",1714,"Mullins","Clarence","H.",1895,"Clanton","AL","M","White","University of Alabama School of Law","Clanton, AL","Mullins, Clarence",1890,-86.6294262,32.8387371
+"447",1715,"Munger","Thomas","Charles",1861,"Fletcher","OH","M","White","Grinnell College","Fletcher, OH","Munger, Thomas",1860,-84.1124406,40.1447753
+"448",1719,"Murphree","Thomas","Alexander",1883,"Blount County","AL","M","White","University of Alabama","Blount County, AL","Murphree, Thomas",1880,-86.4996546,34.0145152
+"449",1722,"Murphy","Frank"," ",1890,"Sand Beach","MI","M","White","University of Michigan","Sand Beach, MI","Murphy, Frank",1890,-82.669947,43.8040404
+"450",1733,"Myers","Francis","Kerschner",1874,"Wilmington","NC","M","White","Read law","Wilmington, NC","Myers, Francis",1870,-77.9447102,34.2257255
+"451",1737,"Neblett","Colin"," ",1875,"Brunswick County","VA","M","White","Washington and Lee University School of Law","Brunswick County, VA","Neblett, Colin",1870,-77.8367282,36.7570589
+"452",1749,"Neterer","Jeremiah"," ",1862,"Goshen","IN","M","White","Northern Indiana Law School (now Valparaiso University Law School)","Goshen, IN","Neterer, Jeremiah",1860,-85.8344383,41.5822716
+"453",1752,"Nevin","Robert","Reasoner",1875,"Dayton","OH","M","White","Ohio State University","Dayton, OH","Nevin, Robert",1870,-84.1916069,39.7589478
+"454",1763,"Nields","John","Percy",1868,"Wilmington","DE","M","White","Harvard University","Wilmington, DE","Nields, John",1860,-75.5397878,39.7390721
+"455",1768,"Niles","Henry","Clay",1850,"Kosciusko","MS","M","White","Read law","Kosciusko, MS","Niles, Henry",1850,-89.5875764,33.0576295
+"456",1777,"Norcross","Frank","Herbert",1869,"Reno","NV","M","White","Nevada State University (now University of Nevada, Reno)","Reno, NV","Norcross, Frank",1860,-119.8138027,39.5296329
+"457",1779,"Nordbye","Gunnar","Hans",1888,"Urskog","Norway","M","White","University of Minnesota Law School","Urskog, Norway","Nordbye, Gunnar",1880,11.4680413,59.9268423
+"458",1783,"Northcott","Elliott"," ",1869,"Clarksburg","WV","M","White","University of Michigan Law School","Clarksburg, WV","Northcott, Elliott",1860,-80.3445341,39.2806451
+"459",1788,"Noyes","Walter","Chadwick",1865,"Lyme","CT","M","White","Cornell University","Lyme, CT","Noyes, Walter",1860,-72.35,41.4
+"460",1792,"O`Brien","Ernest","Aloysius",1880,"Detroit","MI","M","White","Detroit College (now University of Detroit Mercy)","Detroit, MI","O`Brien, Ernest",1880,-83.0457538,42.331427
+"461",3331,"O`Connell","Ambrose"," ",1881,"near Ottumwa","IA","M","White","University of Notre Dame","near Ottumwa, IA","O`Connell, Ambrose",1880,-92.4083022,41.0160293
+"462",1793,"O`Connell","John","Joseph",1894,"Pittsburgh","PA","M","White","Duquesne University","Pittsburgh, PA","O`Connell, John",1890,-79.9958864,40.4406248
+"463",1795,"O`Connor","James","Francis Thaddeus",1886,"Grand Forks","ND","M","White","University of North Dakota","Grand Forks, ND","O`Connor, James",1880,-97.0328547,47.9252568
+"464",1798,"O`Donoghue","Daniel","William",1876,"Washington","DC","M","White","Georgetown College (now Georgetown University)","Washington, DC","O`Donoghue, Daniel",1870,-77.0368707,38.9071923
+"465",1804,"O`Sullivan","Clifford","Patrick",1897,"Chicago","IL","M","White","Notre Dame Law School","Chicago, IL","O`Sullivan, Clifford",1890,-87.6297982,41.8781136
+"466",3311,"Oliver","Webster","J.",1888,"Brooklyn","NY","M","White","Brooklyn Law School","Brooklyn, NY","Oliver, Webster",1880,-73.9441579,40.6781784
+"467",1814,"Orr","Charles","Prentiss",1858,"Allegheny","PA","M","White","Hamilton College","Allegheny, PA","Orr, Charles",1850,-80.0087746,40.4450813
+"468",1815,"Orr","William","Edwin",1881,"Frisco","UT","M","White","University of Nevada, Reno","Frisco, UT","Orr, William",1880,-113.2588528,38.45635
+"469",1818,"Otis","Merrill","E.",1884,"Nodaway County","MO","M","White","University of Missouri","Nodaway County, MO","Otis, Merrill",1880,-94.8105955,40.2907281
+"470",1825,"Page","George","True",1859,"Spring Bay","IL","M","White","University of Illinois","Spring Bay, IL","Page, George",1850,-89.5223152,40.8244814
+"471",1838,"Parker","John","Johnston",1885,"Monroe","NC","M","White","University of North Carolina","Monroe, NC","Parker, John",1880,-80.5495112,34.9854275
+"472",1842,"Parlange","Charles"," ",1851,"New Orleans","LA","M","White","Centenary College","New Orleans, LA","Parlange, Charles",1850,-90.0715323,29.9510658
+"473",1845,"Partridge","John","Slater",1870,"Susanville","CA","M","White","University of California, Berkeley","Susanville, CA","Partridge, John",1870,-120.6530063,40.4162842
+"474",1849,"Patterson","Robert","Porter",1891,"Glens Falls","NY","M","White","Union College","Glens Falls, NY","Patterson, Robert",1890,-73.6440058,43.3095164
+"475",1852,"Paul","John"," ",1883,"Harrisonburg","VA","M","White","Virginia Military Institute","Harrisonburg, VA","Paul, John",1880,-78.8689155,38.4495688
+"476",1857,"Peck","John","Weld",1874,"Wyoming","OH","M","White","Harvard University","Wyoming, OH","Peck, John",1870,-84.4657758,39.2311691
+"477",1870,"Perry","Joseph","Samuel",1896,"Carbon Hill","AL","M","White","University of Alabama","Carbon Hill, AL","Perry, Joseph",1890,-87.5261236,33.8917742
+"478",1873,"Peters","John","Andrew",1864,"Ellsworth","ME","M","White","Bowdoin College","Ellsworth, ME","Peters, John",1860,-68.4194641,44.5434095
+"479",1881,"Phillips","Orie","Leon",1885,"Mercer County","IL","M","White","University of Michigan Law School","Mercer County, IL","Phillips, Orie",1880,-90.6773046,41.1985037
+"480",1882,"Picard","Frank","Albert",1889,"Saginaw","MI","M","White","University of Michigan Law School","Saginaw, MI","Picard, Frank",1880,-83.9508068,43.4194699
+"481",1885,"Pickett","John","Coleman",1896,"Ravenna","NE","M","White","University of Nebraska College of Law","Ravenna, NE","Pickett, John",1890,-98.9127208,41.026327
+"482",1889,"Pine","David","Andrew",1891,"Washington","DC","M","White","Georgetown College Law School (now Georgetown University Law Center)","Washington, DC","Pine, David",1890,-77.0368707,38.9071923
+"483",1891,"Pitney","Mahlon"," ",1858,"Morristown","NJ","M","White","College of New Jersey (now Princeton University)","Morristown, NJ","Pitney, Mahlon",1850,-74.4815438,40.7967667
+"484",1894,"Platt","Casper"," ",1892,"Danville","IL","M","White","University of Illinois","Danville, IL","Platt, Casper",1890,-87.6300207,40.124481
+"485",1895,"Platt","James","Perry",1851,"Towanda","PA","M","White","Yale College","Towanda, PA","Platt, James",1850,-76.4427188,41.767575
+"486",1905,"Pollard","Robert","Nelson",1880,"King and Queen County","VA","M","White","University of Richmond School of Law","King and Queen County, VA","Pollard, Robert",1880,-76.8951551,37.7298568
+"487",1906,"Pollock","John","Calvin",1857,"Belmont County","OH","M","White","Franklin College, New Athens, Ohio","Belmont County, OH","Pollock, John",1850,-80.8986502,40.0325848
+"488",1913,"Pope","Walter","Lyndon",1889,"Valparaiso","IN","M","White","University of Nebraska","Valparaiso, IN","Pope, Walter",1880,-87.0611412,41.4730948
+"489",1914,"Pope","William","Hayes",1870,"Beaufort","SC","M","White","University of Georgia","Beaufort, SC","Pope, William",1870,-80.6698286,32.4315813
+"490",1921,"Porterie","Gaston","Louis Noel",1885,"Mansura","LA","M","White","Louisiana State University","Mansura, LA","Porterie, Gaston",1880,-92.049012,31.0579664
+"491",1932,"Pray","Charles","Nelson",1868,"Potsdam","NY","M","White","Middlebury College","Potsdam, NY","Pray, Charles",1860,-74.9813084,44.6697805
+"492",1937,"Prettyman","Elijah","Barrett",1891,"Lexington","VA","M","White","Randolph-Macon College","Lexington, VA","Prettyman, Elijah",1890,-79.4428157,37.7840208
+"493",1940,"Priest","Henry","Samuel",1853,"Ralls County","MO","M","White","Westminster College, Fulton, Missouri","Ralls County, MO","Priest, Henry",1850,-91.5983959,39.5582351
+"494",1941,"Pritchard","Jeter","Connelly",1857,"Jonesboro","TN","M","White","Read law","Jonesboro, TN","Pritchard, Jeter",1850,-82.4734787,36.2942722
+"495",1943,"Proctor","James","McPherson",1882,"Washington","DC","M","White","George Washington University Law School","Washington, DC","Proctor, James",1880,-77.0368707,38.9071923
+"496",1945,"Purdy","Milton","Dwight",1866,"Mogadore","OH","M","White","University of Minnesota","Mogadore, OH","Purdy, Milton",1860,-81.3978884,41.0464454
+"497",1955,"Ragon","Heartsill"," ",1885,"Dublin","AR","M","White","Washington and Lee University School of Law","Dublin, AR","Ragon, Heartsill",1880,-64.2494812,-31.4478378
+"498",3211,"Rao","Paul","Peter",1899,"Prizzi","Italy","M","White","Fordham University School of Law","Prizzi, Italy","Rao, Paul",1890,13.42825,37.7221352
+"499",1967,"Rasch","Carl","L.",1866,"Schleswig-Holstein","Germany","M","White","Cornell College, Mount Vernon, Iowa","Schleswig-Holstein, Germany","Rasch, Carl",1860,9.6961167,54.2193672
+"500",1969,"Rayfiel","Leo","Frederick",1888,"New York","NY","M","White","New York University School of Law","New York, NY","Rayfiel, Leo",1880,-74.0059413,40.7127837
+"501",1970,"Raymond","Fred","Morton",1876,"Berlin","MI","M","White","University of Michigan Law School","Berlin, MI","Raymond, Fred",1870,-83.2720082,42.0195473
+"502",1980,"Reed","James","Hay",1853,"Allegheny","PA","M","White","Western University of Pennsylvania (now University of Pittsburgh)","Allegheny, PA","Reed, James",1850,-80.0087746,40.4450813
+"503",1984,"Reed","Stanley","Forman",1884,"Minerva","KY","M","White","Kentucky Wesleyan College","Minerva, KY","Reed, Stanley",1880,-83.9190929,38.7053502
+"504",1985,"Reeves","Albert","L.",1873,"Steelville","MO","M","White","Steelville College, Missouri","Steelville, MO","Reeves, Albert",1870,-91.354868,37.9680999
+"505",1991,"Rellstab","John"," ",1858,"Trenton","NJ","M","White","Read law","Trenton, NJ","Rellstab, John",1850,-74.7429384,40.2170534
+"506",1999,"Rice","Ben","Herbert",1889,"Marlin","TX","M","White","University of Texas School of Law","Marlin, TX","Rice, Ben",1880,-96.8980439,31.3062874
+"507",2000,"Rice","Eugene"," ",1891,"Union City","TN","M","White","Hall-Moody Institute, Martin, Tennessee","Union City, TN","Rice, Eugene",1890,-89.0570096,36.4242303
+"508",2003,"Richards","John","Kelvey",1856,"Ironton","OH","M","White","Swarthmore College","Ironton, OH","Richards, John",1850,-82.6829406,38.5367471
+"509",2007,"Riddick","Walter","Garrett",1883,"Gainesville","AR","M","White","Washington and Lee University","Gainesville, AR","Riddick, Walter",1880,-92.4940505,36.2831238
+"510",2008,"Ridge","Albert","Alphonso",1898,"Nevada","MO","M","White","Read law","Nevada, MO","Ridge, Albert",1890,-94.3546719,37.8392052
+"511",2011,"Riley","William","F.",1884,"Ainsworth","IA","M","White","Iowa Agricultural College (now Iowa State University)","Ainsworth, IA","Riley, William",1880,-91.5515505,41.2875208
+"512",2012,"Riner","John","Alden",1850,"Preble County","OH","M","White","University of Michigan Law School","Preble County, OH","Riner, John",1850,-84.6897495,39.7778251
+"513",2014,"Rippey","Harlan","Watson",1874,"Griegsville","NY","M","White","University of Rochester","Griegsville, NY","Rippey, Harlan",1870,-77.89722,42.83056
+"514",2016,"Ritter","Halsted","Lockwood",1868,"Indianapolis","IN","M","White","DePauw University","Indianapolis, IN","Ritter, Halsted",1860,-86.158068,39.768403
+"515",2017,"Ritter","Willis","William",1899,"Salt Lake City","UT","M","White","University of Utah","Salt Lake City, UT","Ritter, Willis",1890,-111.8910474,40.7607793
+"516",2019,"Rives","Richard","Taylor",1895,"Montgomery","AL","M","White","Read law","Montgomery, AL","Rives, Richard",1890,-86.2999689,32.3668052
+"517",2020,"Rizley","Ross"," ",1892,"Beaver County","OK","M","White","Kansas City School of Law (now University of Missouri-Kansas City School of Law)","Beaver County, OK","Rizley, Ross",1890,-100.5296115,36.7440186
+"518",2021,"Robb","Charles","Henry",1867,"Guilford","VT","M","White","Read law","Guilford, VT","Robb, Charles",1860,-72.575487,42.8170235
+"519",2711,"Roberts","Floyd","H.",1879,"Bristol","VA","M","White","University of Virginia School of Law","Bristol, VA","Roberts, Floyd",1870,-82.1888089,36.595141
+"520",2024,"Roberts","Owen","Josephus",1875,"Philadelphia","PA","M","White","University of Pennsylvania","Philadelphia, PA","Roberts, Owen",1870,-75.163789,39.952335
+"521",2035,"Roche","Michael","Joseph",1878,"County Waterford","Ireland","M","White","Valparaiso University Law School","County Waterford, Ireland","Roche, Michael",1870,-7.7171336,52.1964435
+"522",2036,"Rodney","Richard","Seymour",1882,"New Castle","DE","M","White","Read law","New Castle, DE","Rodney, Richard",1880,-75.5668166,39.6620397
+"523",2039,"Rogers","Henry","Wade",1853,"Holland Patent","NY","M","White","University of Michigan","Holland Patent, NY","Rogers, Henry",1850,-75.2568337,43.2417364
+"524",2046,"Rose","John","Carter",1861,"Baltimore","MD","M","White","University of Maryland School of Law","Baltimore, MD","Rose, John",1860,-76.6121893,39.2903848
+"525",2050,"Rosenberg","Louis"," ",1898,"Beaver Falls","PA","M","White","Duquesne University School of Law","Beaver Falls, PA","Rosenberg, Louis",1890,-80.3192295,40.7520097
+"526",2059,"Ross","John","Rolly",1899,"Boston","MA","M","White","University of Nevada, Reno","Boston, MA","Ross, John",1890,-71.0597732,42.3584308
+"527",2060,"Ross","John","William",1878,"Hardin County","TN","M","White","Cumberland School of Law","Hardin County, TN","Ross, John",1870,-88.2461183,35.1142443
+"528",2070,"Rudkin","Frank","H.",1864,"Vernon","OH","M","White","Washington and Lee University","Vernon, OH","Rudkin, Frank",1860,-80.5686845,41.3864438
+"529",2071,"Runyon","William","Nelson",1871,"Plainfield","NJ","M","White","Yale University","Plainfield, NJ","Runyon, William",1870,-74.4073736,40.6337136
+"530",2075,"Russell","Gordon","James",1859,"Huntsville","AL","M","White","University of Georgia","Huntsville, AL","Russell, Gordon",1850,-86.5861037,34.7303688
+"531",2079,"Rutledge","Wiley","Blount",1894,"Cloverport","KY","M","White","University of Wisconsin","Cloverport, KY","Rutledge, Wiley",1890,-86.6327615,37.8333901
+"532",2082,"Ryan","Sylvester","J.",1896,"New York","NY","M","White","City College of New York","New York, NY","Ryan, Sylvester",1890,-74.0059413,40.7127837
+"533",2091,"Sames","Albert","Morris",1873,"Rockford","IL","M","White","University of Wisconsin Law School","Rockford, IL","Sames, Albert",1870,-89.0939952,42.2711311
+"534",2092,"Sanborn","Arthur","Loomis",1850,"Brasner Falls","NY","M","White","University of Wisconsin Law School","Brasner Falls, NY","Sanborn, Arthur",1850,-74.778056,44.801667
+"535",2093,"Sanborn","John","Benjamin",1883,"St. Paul","MN","M","White","University of Minnesota","St. Paul, MN","Sanborn, John",1880,-93.0899578,44.9537029
+"536",2098,"Sanford","Edward","Terry",1865,"Knoxville","TN","M","White","University of Tennessee","Knoxville, TN","Sanford, Edward",1860,-83.9207392,35.9606384
+"537",2102,"Sater","John","Elbert",1854,"New Haven","OH","M","White","Marietta College","New Haven, OH","Sater, John",1850,-82.6820783,41.0324766
+"538",2103,"Saunders","Eugene","Davis",1853,"Campbell County","VA","M","White","University of Virginia School of Law","Campbell County, VA","Saunders, Eugene",1850,-79.1096901,37.221014
+"539",2105,"Sawtelle","William","Henry",1868,"Tuscumbia","AL","M","White","Read law","Tuscumbia, AL","Sawtelle, William",1860,-87.70253,34.7312005
+"540",2109,"Scarlett","Francis","Muir",1891,"Brunswick","GA","M","White","University of Georgia School of Law","Brunswick, GA","Scarlett, Francis",1890,-81.4914894,31.1499528
+"541",2116,"Schnackenberg","Elmer","Jacob",1889,"Indianapolis","IN","M","White","University of Chicago Law School","Indianapolis, IN","Schnackenberg, Elmer",1880,-86.158068,39.768403
+"542",2117,"Schofield","William"," ",1857,"Dudley","MA","M","White","Harvard Law School","Dudley, MA","Schofield, William",1850,-71.9276033,42.0433661
+"543",2118,"Schoonmaker","Frederic","Palen",1870,"Limestone","NY","M","White","Cornell University","Limestone, NY","Schoonmaker, Frederic",1870,-78.6294717,42.0272856
+"544",2127,"Schwellenbach","Lewis","Baxter",1894,"Superior","WI","M","White","University of Washington School of Law","Superior, WI","Schwellenbach, Lewis",1890,-92.1040796,46.7207737
+"545",2130,"Scott","George","Cromwell",1864,"Monroe County","NY","M","White","Read law","Monroe County, NY","Scott, George",1860,-77.7452081,43.2841246
+"546",2144,"Sessions","Clarence","W.",1859,"Ionia County","MI","M","White","University of Michigan","Ionia County, MI","Sessions, Clarence",1850,-85.023346,42.9892119
+"547",2164,"Shaw","Elwyn","Riley",1888,"Lyndon","IL","M","White","University of Michigan Law School","Lyndon, IL","Shaw, Elwyn",1880,-89.9259481,41.7175302
+"548",2169,"Shelbourne","Roy","Mahlon",1890,"Bardwell","KY","M","White","Union University, Jackson, Tennessee","Bardwell, KY","Shelbourne, Roy",1890,-89.0097869,36.8706111
+"549",2174,"Sheppard","William","Bostwick",1860,"Bristol","FL","M","White","University of North Carolina","Bristol, FL","Sheppard, William",1860,-84.9757496,30.4321407
+"550",2186,"Sibley","Samuel","Hale",1873,"Union Point","GA","M","White","University of Georgia","Union Point, GA","Sibley, Samuel",1870,-83.0745969,33.6156831
+"551",2187,"Siddons","Frederick","Lincoln",1864,"London","England","M","White","Columbian University School of Law (now George Washington University Law School)","London, England","Siddons, Frederick",1860,-0.1277583,51.5073509
+"552",2193,"Simons","Charles","Casper",1876,"Detroit","MI","M","White","University of Michigan","Detroit, MI","Simons, Charles",1870,-83.0457538,42.331427
+"553",3250,"Sinnott","Nicholas","John",1870,"The Dalles","OR","M","White","University of Notre Dame","The Dalles, OR","Sinnott, Nicholas",1870,-121.1786823,45.5945645
+"554",2206,"Slick","Thomas","Whitten",1869,"South Bend","IN","M","White","University of Michigan Law School","South Bend, IN","Slick, Thomas",1860,-86.2519898,41.6763545
+"555",2759,"Sloan","Richard","Elihu",1857,"Preble Co.","OR","M","White","Monmouth College","Preble Co., OR","Sloan, Richard",1850,,
+"556",2207,"Sloan","William","Boyd",1895,"Gainesville","GA","M","White","Read law","Gainesville, GA","Sloan, William",1890,-83.8240663,34.2978794
+"557",2217,"Smith","Henry","Augustus Middleton",1853,"Charleston","SC","M","White","College of Charleston","Charleston, SC","Smith, Henry",1850,-79.9310512,32.7764749
+"558",3333,"Smith","James","Francis",1859,"San Francisco","CA","M","White","Santa Clara College (now Santa Clara University)","San Francisco, CA","Smith, James",1850,-122.4194155,37.7749295
+"559",2228,"Smith","Talbot"," ",1899,"Fayette","MO","M","White","U.S. Naval Academy","Fayette, MO","Smith, Talbot",1890,-92.6837943,39.1458654
+"560",2229,"Smith","Walter","Inglewood",1862,"Council Bluffs","IA","M","White","Read law","Council Bluffs, IA","Smith, Walter",1860,-95.8608333,41.2619444
+"561",2232,"Smith","William","Robert",1863,"Smith County","TX","M","White","Sam Houston Normal Institute","Smith County, TX","Smith, William",1860,-95.3102505,32.3352505
+"562",2233,"Smyth","Constantine","Joseph",1859,"County Cavan","Ireland","M","White","Read law","County Cavan, Ireland","Smyth, Constantine",1850,-7.2996623,53.9765424
+"563",2237,"Sobeloff","Simon","E.",1894,"Baltimore","MD","M","White","University of Maryland School of Law","Baltimore, MD","Sobeloff, Simon",1890,-76.6121893,39.2903848
+"564",2241,"Soper","Morris","Ames",1873,"Baltimore","MD","M","White","Johns Hopkins University","Baltimore, MD","Soper, Morris",1870,-76.6121893,39.2903848
+"565",2246,"Sparks","William","Morris",1872,"Charlottesville","IN","M","White","DePauw University","Charlottesville, IN","Sparks, William",1870,-85.6127533,39.7903221
+"566",2249,"Speakman","Howard","C.",1892,"Skidmore","MO","M","White","University of Oklahoma","Skidmore, MO","Speakman, Howard",1890,-95.0785525,40.2888803
+"567",2261,"St. Sure","Adolphus","Frederic",1869,"Sheboygan","WI","M","White","Read law","Sheboygan, WI","St. Sure, Adolphus",1860,-87.71453,43.7508284
+"568",2263,"Stafford","Wendell","Phillips",1861,"Barre","VT","M","White","Boston University School of Law","Barre, VT","Stafford, Wendell",1860,-72.5020494,44.1970055
+"569",2277,"Starr","Raymond","Wesley",1888,"Harbor Springs","MI","M","White","University of Michigan Law School","Harbor Springs, MI","Starr, Raymond",1880,-84.9919992,45.4316759
+"570",2284,"Stephens","Albert","Lee",1874,"State Line City","IN","M","White","Read law","State Line City, IN","Stephens, Albert",1870,-87.5270582,40.1972073
+"571",2285,"Stephens","Harold","Montelle",1886,"Crete","NE","M","White","Cornell University","Crete, NE","Stephens, Harold",1880,-96.9615141,40.6252173
+"572",2299,"Stone","Harlan","Fiske",1872,"Chesterfield","NH","M","White","Amherst College","Chesterfield, NH","Stone, Harlan",1870,-72.470278,42.887222
+"573",2300,"Stone","Kimbrough"," ",1875,"Nevada","MO","M","White","University of Missouri","Nevada, MO","Stone, Kimbrough",1870,-94.3546719,37.8392052
+"574",2301,"Stone","Patrick","Thomas",1889,"Pembroke, Ontario","Canada","M","White","Marquette University Law School","Pembroke, Ontario, Canada","Stone, Patrick",1880,-77.1108826,45.8266513
+"575",2308,"Strum","Louie","Willard",1890,"Valdosta","GA","M","White","Stetson University College of Law","Valdosta, GA","Strum, Louie",1890,-83.2784851,30.8327022
+"576",2313,"Sullivan","George","F.",1886,"Shakopee","MN","M","White","University of Minnesota Law School","Shakopee, MN","Sullivan, George",1880,-93.5272861,44.7973962
+"577",3324,"Sullivan","Jerry","Bartholomew",1859,"Mount Pleasant","IA","M","White","Read law","Mount Pleasant, IA","Sullivan, Jerry",1850,-91.5487714,40.9716959
+"578",2315,"Sullivan","Philip","Leo",1889,"Marengo","IL","M","White","Loyola University Chicago School of Law","Marengo, IL","Sullivan, Philip",1880,-88.6084269,42.2486332
+"579",2316,"Sutherland","George"," ",1862,"Buckinghamshire","England","M","White","University of Michigan Law School","Buckinghamshire, England","Sutherland, George",1860,-0.8127664,51.8072204
+"580",2318,"Swaim","Hardress","Nathan",1890,"Zionsville","IN","M","White","DePauw University","Zionsville, IN","Swaim, Hardress",1890,-86.261937,39.9508733
+"581",2320,"Swan","Thomas","Walter",1877,"Norwich","CT","M","White","Yale University","Norwich, CT","Swan, Thomas",1870,-72.0759105,41.5242649
+"582",2323,"Sweeney","George","Clinton",1895,"Gardner","MA","M","White","Georgetown College Law School (now Georgetown University Law Center)","Gardner, MA","Sweeney, George",1890,-71.998133,42.5750883
+"583",2698,"Swinford","Mac"," ",1899,"Cynthiana","KY","M","White","University of Virginia","Cynthiana, KY","Swinford, Mac",1890,-84.2941013,38.3903526
+"584",2329,"Symes","John","Foster",1878,"Denver","CO","M","White","Yale University","Denver, CO","Symes, John",1870,-104.9847179,39.737567
+"585",2331,"Taft","William","Howard",1857,"Cincinnati","OH","M","White","Yale College","Cincinnati, OH","Taft, William",1850,-84.5120196,39.1031182
+"586",2344,"Tayler","Robert","Walker",1852,"Youngstown","OH","M","White","Western Reserve College (now Case Western Reserve University)","Youngstown, OH","Tayler, Robert",1850,-80.6495194,41.0997803
+"587",2699,"Taylor","George","Caldwell",1885,"Greenville","TN","M","White","Tusculum College","Greenville, TN","Taylor, George",1880,-82.8309861,36.1631574
+"588",2349,"Taylor","Robert","Love",1899,"Embreeville","TN","M","White","Milligan College","Embreeville, TN","Taylor, Robert",1890,-82.4584753,36.1812182
+"589",2358,"Thacher","Thomas","Day",1881,"Tenafly","NJ","M","White","Yale University","Tenafly, NJ","Thacher, Thomas",1880,-73.9629154,40.9253766
+"590",2365,"Thomas","Edwin","Stark",1872,"Woodstock","IL","M","White","Yale Law School","Woodstock, IL","Thomas, Edwin",1870,-88.4487021,42.3147436
+"591",2366,"Thomas","Seth"," ",1873,"McConnelsville","OH","M","White","University of Iowa","McConnelsville, OH","Thomas, Seth",1870,-81.8531912,39.6486822
+"592",2369,"Thomason","Robert","Ewing",1879,"Shelbyville","TN","M","White","Southwestern University","Shelbyville, TN","Thomason, Robert",1870,-86.4602717,35.483406
+"593",2376,"Thompson","Joseph","Whitaker",1861,"Stroudsburg","PA","M","White","University of Pennsylvania Law School","Stroudsburg, PA","Thompson, Joseph",1860,-75.1946248,40.9867609
+"594",2379,"Thompson","Roby","Calvin",1898,"Saltville","VA","M","White","University of Virginia School of Law","Saltville, VA","Thompson, Roby",1890,-81.7620635,36.8815031
+"595",2382,"Thomson","W.","H. Seward",1856,"Beaver County","PA","M","White","Marshall College (now Marshall University)","Beaver County, PA","Thomson, W.",1850,-80.365865,40.6367812
+"596",2385,"Thornton","Thomas","Patrick",1898,"Boston","MA","M","White","University of Detroit Law School (now University of Detroit Mercy School of Law)","Boston, MA","Thornton, Thomas",1890,-71.0597732,42.3584308
+"597",2779,"Tilson","William","Josiah",1871,"Clear Branch","TN","M","White","Yale University","Clear Branch, TN","Tilson, William",1870,-85.2433218,35.2257269
+"598",2391,"Timmerman","George","Bell",1881,"Edgefield County","SC","M","White","University of South Carolina School of Law","Edgefield County, SC","Timmerman, George",1880,-81.9534815,33.8015886
+"599",2407,"Treanor","Walter","Emanuel",1883,"Loogootee","IN","M","White","Indiana University","Loogootee, IN","Treanor, Walter",1880,-86.9141695,38.6769945
+"600",2410,"Trieber","Jacob"," ",1853,"Raschkow","Germany","M","White",,"Raschkow, Germany","Trieber, Jacob",1850,,
+"601",2414,"Trimble","Thomas","Clark",1878,"Lonoke","AR","M","White","University of Arkansas Law Department","Lonoke, AR","Trimble, Thomas",1870,-91.8998611,34.7839795
+"602",2415,"Trippet","Oscar","A.",1856,"Princeton","IN","M","White","University of Virginia School of Law","Princeton, IN","Trippet, Oscar",1850,-87.5675222,38.3553236
+"603",2426,"Tuttle","Arthur","J.",1868,"Leslie","MI","M","White","University of Michigan","Leslie, MI","Tuttle, Arthur",1860,-84.4324695,42.4514252
+"604",2427,"Tuttle","Elbert","Parr",1897,"Pasadena","CA","M","White","Cornell University","Pasadena, CA","Tuttle, Elbert",1890,-118.1445155,34.1477849
+"605",2430,"Underwood","Emory","Marvin",1877,"Douglas County","GA","M","White","Vanderbilt University","Douglas County, GA","Underwood, Emory",1870,-84.7315563,33.7290225
+"606",2432,"Underwood","Mell","Gilbert",1892,"Rose Farm","OH","M","White","Ohio State University College of Law","Rose Farm, OH","Underwood, Mell",1890,-82.0779201,39.7359018
+"607",2440,"Van Devanter","Willis"," ",1859,"Marion","IN","M","White","Cincinnati Law School (now University of Cincinnati College of Law)","Marion, IN","Van Devanter, Willis",1850,-85.6591442,40.5583739
+"608",2442,"Van Fleet","William","Cary",1852,"Maumee City","OH","M","White","Read law","Maumee City, OH","Van Fleet, William",1850,-83.6538244,41.5628294
+"609",2446,"Van Orsdel","Josiah","Alexander",1860,"New Bedford","PA","M","White","Westminster College, New Wilmington, Pennsylvania","New Bedford, PA","Van Orsdel, Josiah",1860,-80.5050184,41.0972681
+"610",2447,"Van Pelt","Robert"," ",1897,"Gosper County","NE","M","White","Doane College","Gosper County, NE","Van Pelt, Robert",1890,-99.8124935,40.4604851
+"611",2450,"Van Valkenburgh","Arba","Seymour",1862,"Syracuse","NY","M","White","University of Michigan","Syracuse, NY","Van Valkenburgh, Arba",1860,-76.1474244,43.0481221
+"612",2455,"Vaught","Edgar","Sullins",1873,"Cedar Springs","VA","M","White","Carson-Newman College","Cedar Springs, VA","Vaught, Edgar",1870,-81.2893937,36.8362777
+"613",2457,"Veeder","Van","Vechten",1867,"Schenectady","NY","M","White","University of Virginia","Schenectady, NY","Veeder, Van",1860,-73.9395687,42.8142432
+"614",2463,"Vinson","Frederick","Moore",1890,"Louisa","KY","M","White","Centre College","Louisa, KY","Vinson, Frederick",1890,-82.6032119,38.1142544
+"615",2464,"Vogel","Charles","Joseph",1898,"Star Lake Township","MN","M","White","University of Minnesota Law School","Star Lake Township, MN","Vogel, Charles",1890,-95.8230142,46.5032439
+"616",2471,"Waddill","Edmund"," ",1855,"Charles City County","VA","M","White","University of Virginia","Charles City County, VA","Waddill, Edmund",1850,-77.1485163,37.4018216
+"617",2473,"Wade","Martin","Joseph",1861,"Burlington","VT","M","White","University of Iowa College of Law","Burlington, VT","Wade, Martin",1860,-73.212072,44.4758825
+"618",3328,"Waite","Byron","Sylvester",1852,"Penfield","NY","M","White","University of Michigan","Penfield, NY","Waite, Byron",1850,-77.475551,43.1303407
+"619",2481,"Walker","Richard","Wilde",1857,"Florence","AL","M","White","Washington and Lee University","Florence, AL","Walker, Richard",1850,-87.677251,34.79981
+"620",2482,"Walker","Thomas","Glynn",1899," ","NJ","M","White","Fordham University School of Law"," , NJ","Walker, Thomas",1890,-74.4056612,40.0583238
+"621",3326,"Walker","Thomas","Joseph",1877,"Plymouth","PA","M","White","Georgetown College (now Georgetown University)","Plymouth, PA","Walker, Thomas",1870,-75.9446428,41.2403596
+"622",2486,"Wallace","William","Robert",1886,"Troy","TX","M","White","University of Oklahoma College of Law","Troy, TX","Wallace, William",1880,-97.3027824,31.2068421
+"623",2488,"Waller","Curtis","Longino",1887,"Silver Creek","MS","M","White","Mississippi College","Silver Creek, MS","Waller, Curtis",1880,-89.9984156,31.605168
+"624",2496,"Wanty","George","P.",1856,"Ann Arbor","MI","M","White","University of Michigan Law School","Ann Arbor, MI","Wanty, George",1850,-83.7430378,42.2808256
+"625",2497,"Ward","Henry","Galbraith",1851,"New York","NY","M","White","University of Pennsylvania","New York, NY","Ward, Henry",1850,-74.0059413,40.7127837
+"626",2504,"Waring","Julius","Waties",1880,"Charleston","SC","M","White","College of Charleston","Charleston, SC","Waring, Julius",1880,-79.9310512,32.7764749
+"627",2505,"Warlick","Wilson"," ",1892,"Newton","NC","M","White","Catawba College","Newton, NC","Warlick, Wilson",1890,-81.2214708,35.6698552
+"628",2506,"Warren","Earl"," ",1891,"Los Angeles","CA","M","White","University of California, Berkeley","Los Angeles, CA","Warren, Earl",1890,-118.2436849,34.0522342
+"629",2515,"Watkins","Harry","Evans",1898,"Watson","WV","M","White","West Virginia University College of Law","Watson, WV","Watkins, Harry",1890,-80.1600795,39.4636965
+"630",2516,"Watkins","Henry","Hitt",1866,"Laurens County","SC","M","White","Furman University","Laurens County, SC","Watkins, Henry",1860,-82.12784,34.5203466
+"631",2519,"Watson","Albert","Leisenring",1876,"Montrose","PA","M","White","Amherst College","Montrose, PA","Watson, Albert",1870,-75.8771388,41.8339653
+"632",2521,"Way","Luther","B.",1879,"Alamance County","NC","M","White","University of Virginia School of Law","Alamance County, NC","Way, Luther",1870,-79.4253776,36.0117388
+"633",2523,"Webb","Edwin","Yates",1872,"Shelby","NC","M","White","Wake Forest College","Shelby, NC","Webb, Edwin",1870,-81.5356463,35.2923513
+"634",2530,"Webster","John","Stanley",1877,"Cynthiana","KY","M","White","University of Michigan Law School","Cynthiana, KY","Webster, John",1870,-84.2941013,38.3903526
+"635",2532,"Weick","Paul","Charles",1899,"Youngstown","OH","M","White","University of Cincinnati College of Law","Youngstown, OH","Weick, Paul",1890,-80.6495194,41.0997803
+"636",2534,"Weinberger","Jacob"," ",1882," ","Austria-Hungary","M","White","University of Colorado Law School"," , Austria-Hungary","Weinberger, Jacob",1880,16.3096318,48.1882736
+"637",3314,"Weller","George","Emery",1857,"St. Paul","MN","M","White","Columbia Law School","St. Paul, MN","Weller, George",1850,-93.0899578,44.9537029
+"638",2546,"Welsh","George","Austin",1878,"Bay View","MD","M","White","Philadelphia Law School of Temple College","Bay View, MD","Welsh, George",1870,-76.2266721,38.9680563
+"639",2547,"Welsh","Martin","Ignatius",1882,"San Jose","CA","M","White","Read law","San Jose, CA","Welsh, Martin",1880,-121.8949555,37.3393857
+"640",2550,"West","DuVal"," ",1861,"Austin","TX","M","White","West Texas Military Academy (now Texas Military Institute)","Austin, TX","West, DuVal",1860,-97.7430608,30.267153
+"641",2554,"West","Samuel","H.",1872,"Waubeck","IA","M","White","Read law","Waubeck, IA","West, Samuel",1870,-91.4651663,42.1658298
+"642",2555,"Westenhaver","David","C.",1865,"Berkeley County","WV","M","White","Georgetown College Law School (now Georgetown University Law Center)","Berkeley County, WV","Westenhaver, David",1860,-78.0651931,39.4885604
+"643",2556,"Westover","Harry","Clay",1894,"Williamstown","KY","M","White","University of Arizona College of Law","Williamstown, KY","Westover, Harry",1890,-84.5604977,38.6381245
+"644",3273,"Whaley","Richard","Smith",1874,"Charleston","SC","M","White","University of Virginia School of Law","Charleston, SC","Whaley, Richard",1870,-79.9310512,32.7764749
+"645",2559,"Wham","Fred","Louis",1884,"Marion County","IL","M","White","University of Illinois College of Law","Marion County, IL","Wham, Fred",1880,-88.864698,38.7313284
+"646",2560,"Wheat","Alfred","Adams",1867,"Nashua","NH","M","White","Dartmouth College","Nashua, NH","Wheat, Alfred",1860,-71.467566,42.7653662
+"647",3252,"Whitaker","Samuel","Estill",1886,"Winchester","TN","M","White","University of Chattanooga (now University of Tennessee at Chattanooga)","Winchester, TN","Whitaker, Samuel",1880,-86.1122071,35.1859163
+"648",2569,"Whitehurst","George","William",1891,"Wauchula","FL","M","White","University of Florida College of Law","Wauchula, FL","Whitehurst, George",1890,-81.8114715,27.5472589
+"649",2570,"Whitson","Edward"," ",1852,"Linn County","OR","M","White","Read law","Linn County, OR","Whitson, Edward",1850,-122.53401,44.4099768
+"650",2577,"Wilbur","Curtis","Dwight",1867,"Boonesboro","IA","M","White","U.S. Naval Academy","Boonesboro, IA","Wilbur, Curtis",1860,-93.097702,41.8780025
+"651",2580,"Wilkerson","James","Herbert",1869,"Savannah","MO","M","White","DePauw University","Savannah, MO","Wilkerson, James",1860,-94.8302451,39.9416606
+"652",2582,"Wilkin","Robert","Nugen",1886,"New Philadelphia","OH","M","White","University of Virginia School of Law","New Philadelphia, OH","Wilkin, Robert",1880,-81.4456706,40.4897871
+"653",2589,"Willard","Charles","Andrew",1857,"St. Johnsbury","VT","M","White","Dartmouth College","St. Johnsbury, VT","Willard, Charles",1850,-72.0151183,44.4192627
+"654",2593,"Williams","Ashton","Hilliard",1891,"Lake City","SC","M","White","University of South Carolina","Lake City, SC","Williams, Ashton",1890,-79.7553451,33.8709958
+"655",2601,"Williams","Robert","Lee",1868,"Brundidge","AL","M","White","Read law","Brundidge, AL","Williams, Robert",1860,-85.8160567,31.7201615
+"656",3253,"Williams","Thomas","Sutler",1872,"Louisville","IL","M","White","Austin College, Effingham, Illinois","Louisville, IL","Williams, Thomas",1870,-88.5025485,38.772269
+"657",3315,"Wilson","David","John",1887,"Midway","UT","M","White","Brigham Young University","Midway, UT","Wilson, David",1880,-111.4743545,40.5121772
+"658",2608,"Wilson","James","Clifton",1874,"Palo Pino","TX","M","White","Weatherford College","Palo Pino, TX","Wilson, James",1870,-98.2987543,32.7679859
+"659",2610,"Wilson","Scott"," ",1870,"Falmouth","ME","M","White","Bates College","Falmouth, ME","Wilson, Scott",1870,-70.241944,43.729444
+"660",2615,"Wing","Francis","Joseph",1850,"North Bloomfield","OH","M","White","Harvard University","North Bloomfield, OH","Wing, Francis",1850,-80.868421,41.4642221
+"661",2619,"Winslow","Francis","Asbury",1866,"Ossining","NY","M","White","City College of New York","Ossining, NY","Winslow, Francis",1860,-73.8615246,41.1628731
+"662",2627,"Witmer","Charles","B.",1862,"Northumberland County","PA","M","White","Central Pennsylvania Business School (now Central Penn College)","Northumberland County, PA","Witmer, Charles",1860,-76.6874701,40.8674339
+"663",2634,"Wolverton","Charles","Edwin",1851,"Des Moines County","IA","M","White","Christian College (now Western Oregon State University)","Des Moines County, IA","Wolverton, Charles",1850,-91.1736994,40.9123374
+"664",2642,"Woodbury","Peter"," ",1899,"Bedford","NH","M","White","Harvard University","Bedford, NH","Woodbury, Peter",1890,-71.5132008,42.9463291
+"665",2644,"Woodrough","Joseph","William",1873,"Cincinnati","OH","M","White","Heidelberg University, Germany","Cincinnati, OH","Woodrough, Joseph",1870,-84.5120196,39.1031182
+"666",2646,"Woods","Charles","Albert",1852,"Darlington","SC","M","White","Wofford College","Darlington, SC","Woods, Charles",1850,-79.8761741,34.2998762
+"667",2651,"Woodward","Charles","Edgar",1876,"New Salem","PA","M","White","Northwestern University","New Salem, PA","Woodward, Charles",1870,-76.7894151,39.9014882
+"668",2653,"Woolley","Victor","Baynard",1867,"Wilmington","DE","M","White","Delaware College (now University of Delaware)","Wilmington, DE","Woolley, Victor",1860,-75.5397878,39.7390721
+"669",2654,"Woolsey","John","Munro",1877,"Aiken","SC","M","White","Yale University","Aiken, SC","Woolsey, John",1870,-81.7195533,33.5604168
+"670",2656,"Wortendyke","Reynier","Jacob",1895,"Jersey City","NJ","M","White","Princeton University","Jersey City, NJ","Wortendyke, Reynier",1890,-74.0776417,40.7281575
+"671",2658,"Wright","Daniel","Thew",1864,"Riverside","OH","M","White","Cincinnati Law School (now University of Cincinnati College of Law)","Riverside, OH","Wright, Daniel",1860,-84.1241047,39.779781
+"672",2666,"Wyche","Charles","Cecil",1885,"Prosperity","SC","M","White","The Citadel","Prosperity, SC","Wyche, Charles",1880,-81.5331602,34.2093079
+"673",2668,"Wyman","Alfred","Lee",1874,"Yankton","SD","M","White","Read law","Yankton, SD","Wyman, Alfred",1870,-97.3972813,42.8711088
+"674",2670,"Yankwich","Leon","Rene",1888,"Jassy","Romania","M","White","Willamette University College of Law","Jassy, Romania","Yankwich, Leon",1880,27.590278,47.156944
+"675",2672,"Youmans","Frank","A.",1860,"near Jefferson City","MO","M","White","University of Missouri","near Jefferson City, MO","Youmans, Frank",1860,-92.1735164,38.5767017
+"676",3316,"Young","George","Morley",1870,"Lakelet","Canada","M","White","University of Minnesota Law School","Lakelet, Canada","Young, George",1870,-81.064238,43.945269
+"677",2679,"Youngdahl","Luther","Wallace",1896,"Minneapolis","MN","M","White","Gustavus Adolphus College","Minneapolis, MN","Youngdahl, Luther",1890,-93.26667,44.983334

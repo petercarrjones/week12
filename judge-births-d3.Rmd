@@ -1,0 +1,78 @@
+---
+title: "Judge Map in D3"
+author: "Pete"
+date: "11/12/2014"
+output: html_document
+---
+
+I will map the judge births in D3, but first I'll get the data ready in R
+
+```{r}
+#Load Libraries
+library(rgdal)
+library(sp)
+library(rgeos)
+library(maptools)
+library(ggmap)
+library(ggplot2)
+library(historydata)
+library(dplyr)
+library(mullenMisc)
+library(dplyr)
+library(tidyr)
+library(knitr)
+library(stringr)
+
+```
+
+You can also embed plots, for example:
+
+```{r}
+
+
+#Pull in Judge Data
+jb <- read.csv("~/Documents/Hist698/week6/jb.txt", stringsAsFactors=FALSE, na.strings = "")
+
+#Clean Judge Data - pull out id#, birth.location, birth year, gender, race, school
+judge_birth<-jb 
+judge_birth<-judge_birth %>% 
+  tbl_df() %>%
+  select(Judge.Identification.Number, Judge.Last.Name, Judge.First.Name, Judge.Middle.Name, Birth.year, Place.of.Birth..City., Place.of.Birth..State., Gender, Race.or.Ethnicity, Name.of.School) %>%
+ mutate(place = paste(Place.of.Birth..City., Place.of.Birth..State., sep=", ")) %>%
+   mutate(name = paste(Judge.Last.Name, Judge.First.Name, sep=", ")) %>%
+  #Run mullenMisc's round_year function
+  mutate(decade = round_year(judge_birth$Birth.year))
+
+  #Filter judge dataset for only 18th century births   
+judge_birth<- judge_birth %>%  filter(decade <= 1890)
+#judge_birth_1860<- judge_birth %>%  filter(decade == 1860)
+#judge_birth_1870<- judge_birth %>%  filter(decade == 1870)
+
+judge_birth<- judge_birth %>%  filter(decade >= 1850)
+
+```
+
+This will prepare the data. Next we'll geocode the birth locations with lat/long from google. Google only allows 2,500 requests per day, so use them wisely. I'm just going to geocode judges born in the 19th century for this reason.
+
+```{r}
+  #Geocode place names (first remove any non-locations)
+judge_birth <- judge_birth %>% filter(place != ", ")
+judge_place <- geocode(judge_birth$place)
+judge_birth <- cbind(judge_birth, judge_place)
+
+
+  #Geocode place names
+#  judge_place_1860 <- geocode(judge_birth_1860$place)
+#judge_birth_1860 <- cbind(judge_birth_1860, judge_place_1860)
+
+  #Geocode place names
+#  judge_place_1870 <- geocode(judge_birth_1870$place)
+#judge_birth_1870 <- cbind(judge_birth_1870, judge_place_1870)
+
+#Write the CSV to disk for use in D3
+write.csv(judge_birth, "judges_1800s.csv", na = "")
+
+```
+
+
+
